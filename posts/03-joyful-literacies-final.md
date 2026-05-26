@@ -31,14 +31,19 @@ In my Pine Brook IGNITE placement, particularly in the Minecraft unit work, I ha
 
 ---
 
-## 💬 Instructor / Peer Feedback Received
+## 💬 Feedback Received
+**From:** Alyse Cunzio  
 
 > "That reminds me not to confuse an access barrier with a thinking barrier, what an important takeaway. Your points about not making students less complex to meet a rigid expectation are also well founded. To your point, assessment practices should reflect student complexity but those practices should not be an afterthought. When we plan with the end in mind, our assessment practices reflect the learning objective versus task or test completion."
 
-**Key takeaway from feedback:** Backward design (planning with the end in mind) is the structural answer — assessment designed *into* learning from the start, not bolted on at the end.
+**Key takeaway:** Backward design (planning with the end in mind) is the structural answer — assessment designed *into* learning from the start, not bolted on at the end.
 
 ---
 
-## ↩️ My Reply
+## ↩️ My Reply (Final)
 
-Thank you for naming that distinction so clearly! Planning with the end in mind reframes assessment from something we do to students at the finish line into something we design into the learning from the beginning. That shift matters especially for students whose strengths are not always visible through traditional print-based tasks. In my IGNITE placement I have seen what happens when the success criteria are built in from the start; students know what "showing your thinking" looks like through explanation, revision, or peer support, not just a written product. The structure itself becomes an access ramp, not an afterthought. The tension I keep sitting with is: even when we plan backward with complex, multimodal assessments in mind, the institutional gradebook still often requires a single score. So the next layer of the problem may be not just how we assess but what the system allows us to record as evidence of learning, something I am still navigating and understanding better through my teaching placement.
+@Alyse Cunzio
+
+Thank you for naming that distinction so clearly!
+
+I agree! Planning with the end in mind reframes assessment from something we do to students at the finish line into something we design into the learning from the beginning — I have found myself referring back to this technique a lot when updating my lessons. This really matters for students whose strengths are not always visible through traditional print-based tasks. In my teaching placement (IGNITE) I experienced what happens when the success criteria are built in from the start; students know what "showing your thinking" looks like through explanation, revision, or peer support, not just a written product. The structure itself becomes an access ramp, not an afterthought. However, the tension I keep sitting with is: even when we plan backward with complex, multimodal assessments in mind, the institutional gradebook still often requires a single score. So, the next layer of this may be not just how we assess but what the system allows us to record as evidence of learning, something I am still navigating and understanding better through my teaching placement.
