@@ -28,3 +28,17 @@ This reminded me that literacy becomes more meaningful when it matters to someon
 ## 1 Connection to Teaching Practice / Future Classroom
 
 In my Pine Brook IGNITE placement, particularly in the Minecraft unit work, I have seen joy appear when students have structure, choice, and room to create. A student might struggle with written directions, a click-path, or a digital interface but still show strong thinking by debugging, explaining a design choice, helping a peer, or revising after feedback. That reminds me not to confuse an access barrier with a thinking barrier. In my future K–12 computer science classroom, joyful literacy means designing learning where students can use language, code, visuals, speech, collaboration, and technology to make meaning. For neurodivergent students, CLD students, and students with multiple identities, that kind of design can make their strengths visible while still keeping the work rigorous. Concretely, that means building in oral explanation as a legitimate assessment option, treating a student's debugging process as evidence of reasoning, and creating assignments where the audience is real: a classmate, community, or public showcase, not only a grade. Systems should not require students to become less complex in order to be understood, and neither should classrooms.
+
+---
+
+## 💬 Instructor / Peer Feedback Received
+
+> "That reminds me not to confuse an access barrier with a thinking barrier, what an important takeaway. Your points about not making students less complex to meet a rigid expectation are also well founded. To your point, assessment practices should reflect student complexity but those practices should not be an afterthought. When we plan with the end in mind, our assessment practices reflect the learning objective versus task or test completion."
+
+**Key takeaway from feedback:** Backward design (planning with the end in mind) is the structural answer — assessment designed *into* learning from the start, not bolted on at the end.
+
+---
+
+## ↩️ My Reply
+
+Thank you for naming that distinction so clearly! Planning with the end in mind reframes assessment from something we do to students at the finish line into something we design into the learning from the beginning. That shift matters especially for students whose strengths are not always visible through traditional print-based tasks. In my IGNITE placement I have seen what happens when the success criteria are built in from the start; students know what "showing your thinking" looks like through explanation, revision, or peer support, not just a written product. The structure itself becomes an access ramp, not an afterthought. The tension I keep sitting with is: even when we plan backward with complex, multimodal assessments in mind, the institutional gradebook still often requires a single score. So the next layer of the problem may be not just how we assess but what the system allows us to record as evidence of learning, something I am still navigating and understanding better through my teaching placement.
