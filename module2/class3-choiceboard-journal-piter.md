@@ -16,7 +16,7 @@ My joyful literacy pursuit for the mini-unit is belonging before building. Befor
 **Activity:** Code something, create an algorithm, engage in some maths
 
 **Artifact:** EQUITAS Healthcare AI Fairness Unit
-[EQUITAS_Healthcare_AI_Fairness_Unit_Master.ipynb](https://colab.research.google.com/drive/1yBmWt-fo5S-RLiFp2WGHN8OyWZWirpfV#scrollTo=yDvjUNKCkk_4)
+[EQUITAS_Healthcare_AI_Fairness_Unit_Master.ipynb](https://colab.research.google.com/drive/1RTmfR1ScuzPSw1pfFyueovdl49YVhSgu?usp=sharing)
 
 ---
 
