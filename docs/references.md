@@ -11,6 +11,7 @@ This file keeps the course-facing references and local working sources used for 
 - `module2/Summer A 2026 Class 2 Defining Literacies.docx.md` - Markdown extraction/working copy of the Class 2 document.
 - `module2/Class 3_ Toward a Pursuit of Joy .docx` - Class 3 agenda/source document.
 - `module2/Week 3- The Importance of Joy in Literacy Instruction.pptx-3.pdf` - Class 3/Week 3 slide export.
+- `module2/week3-importance-of-joy-overview.md` - Comprehensive overview of the Week 3 joy slide deck through the neurodivergent, CLD, and multiple-identities theme.
 - `module2/Module Overview.pdf` - Module objectives around joyful literacy practices, culturally and historically responsive pedagogy, multimodal reflection, and disrupting traditional literacy practices.
 - `module2/Readings & Media Content.pdf` - Reading list for Class 2 and Class 3.
 - `transcripts/` - Local course lecture transcripts used for study, quotation checking, and future synthesis.
