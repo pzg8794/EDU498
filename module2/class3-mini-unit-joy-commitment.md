@@ -8,9 +8,7 @@
 
 ## Commitment Statement
 
-My joyful literacy pursuit for the mini-unit is **belonging before building**. Before any student works independently, the whole class will build shared understanding together through a contributor + team model — one student per table as the contributor, supported by their group, with vocabulary and concepts named only once students have the materials in their hands. Joy is not added on top of the lesson. It is the structure of the lesson.
-
-*State of the World* asks who is being left out and why that is acceptable. That is the same question this design asks of literacy instruction. Joy in that song is not a celebration — it is a demand. It is what joy looks like when it is connected to justice, not just comfort. That is the frame this mini-unit commits to.
+My joyful literacy pursuit for the mini-unit is belonging before building. Before any student works independently or in a group, the whole class will build shared understanding together through a contributor + team model: one student per table as the contributor, supported by their group, with vocabulary and concepts named only once students have the materials in their hands. Joy is not added on top of the lesson; it is the structure of the lesson itself. Janet Jackson's *State of the World* asks who is being left out and why that is acceptable. My mini-unit brings that same question to literacy instruction, because joy that is not structurally accessible is not available to all students. Joy in that literary work is not just celebration; it is a demand. It is what joy looks like when connected to justice, and that is the frame this mini-unit commits to.
 
 ---
 
