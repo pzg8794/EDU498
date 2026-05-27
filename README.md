@@ -4,21 +4,27 @@ This repository organizes the working materials for EDU 498, Summer A 2026. It k
 
 ## Current Focus
 
-The active work is Module 2, Class 2: **Defining Literacies**.
+The active work is keeping the local course archive and GitHub remote synchronized while preserving submitted posts, assignment drafts, course announcements, module packets, and transcript notes.
 
 - Submission draft: [module2/activity3_piter_draft.md](module2/activity3_piter_draft.md)
 - Process notes: [docs/activity3-source-trail.md](docs/activity3-source-trail.md)
 - References: [docs/references.md](docs/references.md)
 - TODO list: [TODO.md](TODO.md)
+- Latest sync log: [docs/sync-log-2026-05-26.md](docs/sync-log-2026-05-26.md)
 
 ## Repository Map
 
 - `module1/` - Class 1 module overview, readings/media, session navigator, and class document.
 - `module2/` - Class 2 module overview, readings/media, activity materials, and Activity 3 draft.
 - `assignments/` - Major assignment descriptions and related course documents.
+- `assignments/literacy_narrative/` - Remote-tracked literacy narrative LaTeX draft history.
+- `posts/` - Submitted discussion posts and 3-2-1 reading responses.
+- `announcement/` - Course announcements and reminders downloaded from the course platform.
+- `info/` - Organized copies of course-level information PDFs.
+- `transcripts/` - Course lecture transcripts used for study notes and future drafting.
 - `docs/` - Repo-level documentation for synthesis process, source trail, references, and course-facing notes.
 
-The zipped files are preserved as downloaded course packets. The extracted folders are the working versions used for reading and drafting.
+The zipped files are preserved as downloaded course packets. Root-level zip files preserve the original download set, while module-local copies preserve the same packets near their extracted working folders.
 
 ## Activity 3 Synthesis
 
@@ -47,3 +53,8 @@ No student names or identifying classroom details are included in the EDU 498 dr
 5. Document the source trail, references, and remaining TODOs.
 6. Commit and push updates to GitHub.
 
+## Sync Notes
+
+On 2026-05-26, the local checkout was fast-forwarded to `origin/main`, restoring remote-only work such as the `posts/` tracker and literacy narrative LaTeX draft. Local-only course files were then staged for a new sync commit so the remote has the current local archive too.
+
+The GitHub remote is private because this repository contains course documents, transcripts, submission receipts, and assignment drafts.

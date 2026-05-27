@@ -4,9 +4,16 @@ This file keeps the course-facing references and local working sources used for 
 
 ## EDU 498 Course Sources
 
+- Root course PDFs - syllabus/checklist, welcome, grading policy, textbook info, and course objectives.
+- `info/` - Organized copies of the same course-level information PDFs.
+- `announcement/` - Course announcements and class reminders.
 - `module2/Summer A 2026 Class 2 Defining Literacies.docx` - Class 2 agenda, Activity 3 prompt, and peer discussion notes.
+- `module2/Summer A 2026 Class 2 Defining Literacies.docx.md` - Markdown extraction/working copy of the Class 2 document.
+- `module2/Class 3_ Toward a Pursuit of Joy .docx` - Class 3 agenda/source document.
+- `module2/Week 3- The Importance of Joy in Literacy Instruction.pptx-3.pdf` - Class 3/Week 3 slide export.
 - `module2/Module Overview.pdf` - Module objectives around joyful literacy practices, culturally and historically responsive pedagogy, multimodal reflection, and disrupting traditional literacy practices.
 - `module2/Readings & Media Content.pdf` - Reading list for Class 2 and Class 3.
+- `transcripts/` - Local course lecture transcripts used for study, quotation checking, and future synthesis.
 
 ## Class 2 Readings and Media
 
@@ -38,3 +45,6 @@ These sources were used as context for personalization. They are not copied into
 
 The Activity 3 response is a brief asynchronous class post, not a formal paper. It names Bishop and Mackey directly because those readings are part of the prompt conversation. If this draft is later expanded into a formal submission, convert the reading list into full APA references and add page-specific citations where needed.
 
+## Repository Sync Note
+
+The course archive now includes both remote-originated working files and local-only downloaded materials. See `docs/sync-log-2026-05-26.md` for the local/remote reconciliation record.
