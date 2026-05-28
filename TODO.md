@@ -13,6 +13,11 @@
 - [x] Class 2 — Activity 3: Building on the Basics Parts 1 & 2 → [`posts/02-building-on-the-basics.md`](posts/02-building-on-the-basics.md)
 - [x] Class 3 — 3-2-1 Discussion Post: Joyful Literacies (Group B due 5/26) → [`posts/03-joyful-literacies-final.md`](posts/03-joyful-literacies-final.md)
 - [x] Class 3 — 3-2-1 Discussion Post: Cultural Pedagogies (Group B due 5/26) → [`posts/04-cultural-pedagogies-final.md`](posts/04-cultural-pedagogies-final.md)
+- [x] Class 4 — Activity 2 artifact saved (The Architects of Belonging) → [`module2/class4-activity2-piter.md`](module2/class4-activity2-piter.md)
+- [x] Class 4 — Sealey-Ruiz transcript summary saved → [`module2/class4-sealey-ruiz-summary-piter.md`](module2/class4-sealey-ruiz-summary-piter.md)
+- [x] Class 4 — Async Activity 1 draft (Describe/Excavate/Reflect/Interrupt) → [`module2/class4-async1-racial-literacy-journal-piter.md`](module2/class4-async1-racial-literacy-journal-piter.md)
+- [x] Class 4 — Describe-the-moment option bank drafted → [`module2/class4-describe-the-moment-options-piter.md`](module2/class4-describe-the-moment-options-piter.md)
+- [x] Class 4 — Process and source trail documented → [`docs/class4-async-source-trail-2026-05-28.md`](docs/class4-async-source-trail-2026-05-28.md)
 
 ---
 

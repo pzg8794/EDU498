@@ -6,8 +6,13 @@ This repository organizes the working materials for EDU 498, Summer A 2026. It k
 
 The active work is keeping the local course archive and GitHub remote synchronized while preserving submitted posts, assignment drafts, course announcements, module packets, and transcript notes.
 
+- Class 4 async draft set: [module2/class4-async1-racial-literacy-journal-piter.md](module2/class4-async1-racial-literacy-journal-piter.md)
+- Class 4 describe-moment bank: [module2/class4-describe-the-moment-options-piter.md](module2/class4-describe-the-moment-options-piter.md)
+- Class 4 Activity 2 artifact: [module2/class4-activity2-piter.md](module2/class4-activity2-piter.md)
+- Class 4 Sealey-Ruiz summary: [module2/class4-sealey-ruiz-summary-piter.md](module2/class4-sealey-ruiz-summary-piter.md)
 - Submission draft: [module2/activity3_piter_draft.md](module2/activity3_piter_draft.md)
 - Process notes: [docs/activity3-source-trail.md](docs/activity3-source-trail.md)
+- Class 4 process notes: [docs/class4-async-source-trail-2026-05-28.md](docs/class4-async-source-trail-2026-05-28.md)
 - References: [docs/references.md](docs/references.md)
 - TODO list: [TODO.md](TODO.md)
 - Latest sync log: [docs/sync-log-2026-05-26.md](docs/sync-log-2026-05-26.md)
