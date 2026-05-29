@@ -33,6 +33,16 @@ Document Class 4 asynchronous drafting and preserve reproducible traceability fo
   - `module2/class4-wellness-checkin-piter.md`
   - `module2/class4-cultural-pedagogies-overview.md`
 
+### Overleaf-Derived Journal and Manuscript Sources
+- `assignments/EDU498_Literacy_Narrative_Garcia_revised.tex`
+- `assignments/literacy_narrative/EDU498_Literacy_Narrative_Garcia.tex`
+
+Extracted continuity lines used for async drafting:
+- "Moving to the United States at eighteen changed my relationship with literacy again."
+- "English ... was a gatekeeping system."
+- "It shaped how professors heard me ... and how much energy it took to be seen as intelligent."
+- "Academic English ... rewards certain ways of organizing thought."
+
 ### Conceptual/Reading Inputs
 - Sealey-Ruiz (Truth, Love & Racial Literacy)
 - Muhammad (Cultivating Genius / Unearthing Joy framing used in class)
@@ -49,9 +59,10 @@ Document Class 4 asynchronous drafting and preserve reproducible traceability fo
 1. Verified target repository path and module/docs directories.
 2. Reviewed existing Class 4 files to lock writing voice and continuity.
 3. Reconstructed unsaved artifacts from known class output and prior draft cues.
-4. Drafted Activity 1 journal with all four required sections.
-5. Built a focused option bank for "Describe the moment" to support fast revision before submission.
-6. Logged all artifacts and sources in this file for auditability.
+4. Pulled Overleaf-derived literacy narrative TeX drafts and extracted concrete language for memory, gatekeeping, and identity themes.
+5. Drafted Activity 1 journal with all four required sections, anchored to Overleaf-derived narrative content.
+6. Built a focused option bank for "Describe the moment" from the same source themes.
+7. Logged all artifacts and sources in this file for auditability.
 
 ---
 

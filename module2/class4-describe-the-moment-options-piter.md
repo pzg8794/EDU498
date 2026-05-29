@@ -6,13 +6,13 @@
 ---
 
 ## Option 1: Immigration and Academic Voice
-The moment happened in my first semester after moving to the U.S. I contributed to a class discussion and the conversation quickly shifted from my argument to my accent. My ideas were treated as secondary to whether I sounded "academic." In real time, I understood that race, language, and legitimacy were being sorted before my thinking could be considered.
+The moment happened in my first semester after moving to the U.S. I contributed to a class discussion and the conversation shifted from my argument to my accent. My ideas became secondary to whether I sounded academic. In real time, I understood that race, language, and legitimacy were being sorted before my thinking could be considered.
 
 ## Option 2: Identity Splitting in Professional Spaces
-The moment happened in an academic setting where I felt pressure to present only one version of myself at a time: either technical, or bilingual, or educator, but never all of them together. When I tried to speak from multiple identities, the response was confusion and subtle redirection to a narrower script. I recognized that belonging in that room depended on self-erasure.
+The moment happened in an academic setting where I felt pressure to present one version of myself at a time: technical, bilingual, or educator. When I spoke from multiple identities, the response was confusion and redirection to a narrower script. I recognized that belonging in that room was tied to identity reduction.
 
 ## Option 3: Teacher Noticing and Student Legibility
-The moment happened during classroom instruction when a student's way of communicating was read as off-task before being read as meaning-making. The student demonstrated understanding in a non-dominant mode, and the first institutional reaction was correction. I saw how quickly race, language, and behavior norms shape whose literacy is seen as valid.
+The moment happened during classroom instruction when a student's communication was read as off-task before it was read as meaning-making. The student showed understanding in a non-dominant mode, and the first institutional reaction was correction. I saw how quickly race, language, and behavior norms shape whose literacy is seen as valid.
 
 ---
 
