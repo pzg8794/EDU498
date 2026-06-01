@@ -1,4 +1,5 @@
 .DS_Store
+Icon?
 __MACOSX/
 .ipynb_checkpoints/
 *.pyc

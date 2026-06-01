@@ -135,6 +135,21 @@ After writing:
 
 Do not use other repositories for EDU498 work.
 
+## Structure Hygiene Check
+
+Before finalizing module-level reorganization or reading-pipeline updates, run:
+
+```bash
+python3 scripts/check_module_consistency.py
+```
+
+This validates:
+
+- singular `Reading & Media Content` directory usage,
+- absence of deprecated plural directory names,
+- presence of core reading pipeline folders/files,
+- source inventory expected-count alignment with themed overview counts when declared.
+
 ## Final Quality Check
 
 Before calling any assignment complete, verify that it answers:

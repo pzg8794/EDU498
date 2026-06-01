@@ -191,6 +191,14 @@ Before reporting completion, verify:
 - no placeholder/junk files remain;
 - no reusable process file was placed inside a module directory.
 
+For module-structure updates, also run:
+
+```bash
+python3 scripts/check_module_consistency.py
+```
+
+Treat any reported ISSUE as blocking until resolved or explicitly accepted by Piter.
+
 ## Final Rule
 
 Every EDU498 artifact should help answer this question:
