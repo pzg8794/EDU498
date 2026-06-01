@@ -121,6 +121,76 @@ For module reading overviews, use this structure when appropriate:
 9. Future teaching moves.
 10. References / assigned materials.
 
+## Reading & Media Content Source Processing Protocol
+
+When a module has a `Reading & Media Content/source/` directory, process it using this protocol.
+
+### Required directory pattern
+
+```text
+moduleX/
+  Reading & Media Content/
+    source/
+      <source item>.md
+    themed_overview/
+      <source-name>-themed-overview.md
+    comprehensive_themed_overview.md
+```
+
+### Step 1: Inspect source items
+
+Identify every readable file inside:
+
+```text
+moduleX/Reading & Media Content/source/
+```
+
+Do not invent missing readings, transcripts, or media content. If a source is unavailable, create an access note only when asked.
+
+### Step 2: Create one themed overview per source
+
+For each source item, create a matching overview inside:
+
+```text
+moduleX/Reading & Media Content/themed_overview/
+```
+
+Each individual themed overview should include:
+
+1. Source title and location.
+2. Source purpose.
+3. Main ideas.
+4. Puzzle Plan connection.
+5. EQUITAS connection.
+6. Course theme connection.
+7. Teaching implications.
+8. Placement connection when relevant.
+9. Final themed takeaway.
+
+### Step 3: Create the module-level synthesis
+
+After all source-specific overviews are created, create or update:
+
+```text
+moduleX/Reading & Media Content/comprehensive_themed_overview.md
+```
+
+This document should synthesize all source items in the module through the course goals, Puzzle Plan, EQUITAS, CHRE/CHRL, and placement-practice lens.
+
+### Step 4: Keep process documentation out of modules
+
+Do **not** create process/protocol files inside module directories unless Piter explicitly asks. Reusable workflow belongs in `AGENTS.md` and/or `PROCESS.md`, not in `module1/`, `module2/`, `module3/`, etc.
+
+### Step 5: Verify cleanup and links
+
+Before reporting completion, verify:
+
+- every generated file is in `pzg8794/EDU498`;
+- source-specific files are inside `themed_overview/`;
+- the module synthesis is named `comprehensive_themed_overview.md`;
+- no placeholder/junk files remain;
+- no reusable process file was placed inside a module directory.
+
 ## Final Rule
 
 Every EDU498 artifact should help answer this question:
