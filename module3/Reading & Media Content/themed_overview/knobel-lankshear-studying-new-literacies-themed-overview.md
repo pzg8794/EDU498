@@ -1,53 +1,15 @@
-# Comprehensive Themed Overview: Knobel & Lankshear (2014)
+# Knobel & Lankshear (2014): Studying New Literacies
 
-**Module:** Module 3 / Week 5: Digital & Media Literacy  
-**Source:** Knobel, M., & Lankshear, C. (2014). *Studying new literacies*.  
-**Course lens:** Puzzle Plan + EQUITAS  
+## Readable Themed Overview
 
----
+Knobel and Lankshear give Module 3 its foundation: literacy is not fixed. It changes as people, tools, technologies, communities, and purposes change. This matters because schools often act as if literacy only means traditional reading and writing, when students are already making meaning through screens, images, games, comments, links, videos, social platforms, remixing, and collaboration.
 
-## Source Purpose
+The reading helps us understand why digital literacy cannot be treated as a small technology add-on. New literacies are social practices. A student is not simply using a tool; they are participating in a community, reading expectations, choosing a mode, responding to an audience, and creating meaning. That shifts the classroom question from “Can this student write the right answer in the expected form?” to “How is this student making meaning, with what tools, in what context, and for whom?”
 
-Knobel and Lankshear help define the field of new literacies. The reading pushes against the idea that literacy is fixed, print-only, or limited to traditional school reading and writing. Instead, literacy changes as technologies, communities, tools, and social practices change.
+Through our Puzzle Plan lens, this source is about access and recognition. Students who are neurodivergent, CLD, multilingual, chronically ill, trauma-impacted, or navigating multiple identities may not always show their strongest thinking through one narrow school format. But they may show deep literacy through visual design, digital communication, gaming systems, peer explanation, translation, storytelling, online research, or multimodal composition. Knobel and Lankshear help us name those practices as literacy instead of treating them as distractions from literacy.
 
-For EDU498, this source matters because it gives the module its foundation: if literacy is shaped by social practice, then digital activity, online communication, multimodal creation, remixing, collaboration, and networked participation all count as literacy practices.
+Through EQUITAS, the reading challenges the hidden default learner: the student who reads and writes quickly, quietly, linearly, and in school-approved English. A more equitable classroom recognizes that literacy can be distributed across tools, bodies, languages, relationships, and modes.
 
----
+## Teaching Takeaway
 
-## Main Ideas
-
-The reading emphasizes that new literacies are not just old literacy skills moved onto screens. They involve new ways of participating, creating, sharing, and meaning-making. Digital spaces allow students to compose through images, audio, video, hyperlinks, comments, games, platforms, and networks.
-
-This shifts the teacher's question from "Can students read and write correctly?" to "How are students making meaning, with which tools, in which communities, and for what purposes?"
-
----
-
-## Puzzle Plan Connection
-
-Through the Puzzle Plan, this reading works as the conceptual foundation for access. It helps explain why students who struggle with traditional school literacy may still be highly literate in other spaces. A student may show intelligence through design, digital communication, gaming, translation, visual composition, collaboration, or online research.
-
-The reading supports:
-
-- **Access:** widening what counts as participation;
-- **Identity:** recognizing students' existing digital practices;
-- **Agency:** allowing students to create and circulate meaning;
-- **Criticality:** asking how tools and platforms shape literacy;
-- **Transformation:** moving from print-only literacy toward multimodal literacy.
-
----
-
-## EQUITAS Connection
-
-EQUITAS asks who is treated as the default literate student. This reading challenges the assumption that the default literate student is the one who performs best through print, speed, silence, and standardized output. An EQUITAS-aligned classroom recognizes that literacy can be distributed across tools, relationships, languages, modes, and contexts.
-
----
-
-## Teaching Implications
-
-Teachers should design literacy opportunities that include writing, speaking, drawing, building, coding, recording, remixing, and digital composing. The goal is not to replace traditional literacy but to expand the pathways students can use to show understanding.
-
----
-
-## Final Themed Takeaway
-
-Knobel and Lankshear help Module 3 define digital literacy as a living social practice. Through the Puzzle Plan and EQUITAS, this reading supports a classroom where students are not judged only by narrow print-based measures but are invited to show literacy through multiple tools, identities, and ways of making meaning.
+The practical lesson is simple: do not reduce literacy to print-only performance. Design assignments where students can read, write, speak, draw, build, record, remix, collaborate, and explain. New literacies do not replace traditional literacy; they widen the doorway so more students can show what they understand.
