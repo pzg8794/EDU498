@@ -1,0 +1,39 @@
+# Module 3 Comprehensive Themed Overview
+
+## Week 5: Digital & Media Literacy
+
+This module is about digital and media literacy as real literacy, not as an extra technology topic. Across the readings and media, the shared message is that students make meaning through screens, images, videos, comments, games, search results, social media, digital tools, and online communities. Literacy is no longer only print on a page. It is also how students interpret digital spaces, represent themselves, evaluate information, collaborate, create, and participate in community.
+
+The strongest theme across the module is access. Digital tools can open doors for students when they create more ways to show understanding. A student might explain an idea through a video, a drawing, a digital model, a Minecraft build, a bilingual post, a podcast, a visual reflection, or peer teaching. These are not lower forms of literacy. They are different pathways into meaning. Through the Puzzle Plan and EQUITAS lens, this matters because classrooms often assume one default learner: someone who is comfortable with print, speed, polished academic language, quiet independence, and one correct format. Module 3 challenges that assumption.
+
+The readings also show that digital literacy is identity work. Students do not enter digital spaces as blank users. They bring language, culture, family, community, interests, histories, bodies, and lived experiences with them. Brooks and Frankel make this especially clear through transnational digital literacy: students may already be using technology to move across languages, countries, and communities. Knobel and Lankshear help us name those practices as new literacies, while Price-Dennis, Holmes, and Smith show how inclusive digital literacy can help teachers recognize more forms of student knowledge.
+
+Another major theme is criticality. Digital spaces are not neutral. Media messages shape what students believe, how groups are represented, and whose experiences are treated as credible. Melo-Pfeifer and Gertz show that students need critical intercultural news literacy so they can question headlines, images, missing voices, and repeated assumptions. The Common Sense Digital Citizenship materials add that students also need language for privacy, audience, confirmation bias, online identity, community responsibility, and upstander communication.
+
+The module also connects digital literacy to agency and joy. Stornaiuolo and Thomas show that young people use digital tools to speak, organize ideas, and participate in public life. Pinkard helps us see digital literacy as an ecosystem: students need tools, mentors, audiences, feedback, and real reasons to create. Serpagli and Mensah show that social media-style practices can support science learning when students use familiar digital forms to explain, document, and share ideas. Together, these sources show that digital literacy can help students become creators, not just consumers.
+
+For teaching, the practical lesson is clear: digital literacy should be designed, not assumed. Teachers should not simply add a device to a traditional task and call it innovation. They should ask whether the digital task creates more access, more voice, more connection, and more critical thinking. Strong digital literacy instruction gives students multiple ways to respond, teaches them to evaluate media carefully, supports responsible participation, and treats students' existing digital practices as resources for learning.
+
+This connects directly to the placement examples. In Grade 4 Minecraft, students who finished early helped classmates continue their work. That moment showed digital literacy as peer teaching and community responsibility. In Kindergarten circuits and Grade 5 airplane/fan-circuit design, students learned through tools, vocabulary, building, testing, movement, and shared success. Module 3 extends that same idea into digital spaces: literacy can be physical, visual, digital, social, technical, oral, and collaborative.
+
+## Module Takeaway
+
+Digital and media literacy are central to culturally and historically responsive teaching because students already live, learn, communicate, and build identity in digital spaces. Through the Puzzle Plan and EQUITAS framework, Module 3 argues that students should not be judged by narrow assumptions about what literacy looks like. They should be taught how to use digital spaces to learn, create, question, connect, support others, and represent themselves with dignity.
+
+## Readable Source Overviews
+
+The readable source summaries are here:
+
+1. `themed_overview/knobel-lankshear-studying-new-literacies-themed-overview.md`
+2. `themed_overview/price-dennis-digital-literacy-readable-overview.md`
+3. `themed_overview/stornaiuolo-thomas-readable-overview.md`
+4. `themed_overview/brooks-frankel-readable-overview.md`
+5. `themed_overview/serpagli-mensah-readable-overview.md`
+6. `themed_overview/melo-pfeifer-gertz-readable-overview.md`
+7. `themed_overview/common-sense-digital-citizenship-readable-overview.md`
+8. `themed_overview/common-sense-themed-summary-readable-overview.md`
+9. `themed_overview/pinkard-digital-literacy-readable-overview.md`
+
+## Full Source Set Represented
+
+This overview represents the Week 5 source set: Knobel & Lankshear; Price-Dennis, Holmes, & Smith; Stornaiuolo & Thomas; Brooks & Frankel; Serpagli & Mensah; Melo-Pfeifer & Gertz; Common Sense Digital Citizenship materials; and Dr. Nichole Pinkard on digital literacy.
