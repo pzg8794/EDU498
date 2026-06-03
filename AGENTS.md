@@ -121,6 +121,19 @@ For module reading overviews, use this structure when appropriate:
 9. Future teaching moves.
 10. References / assigned materials.
 
+## Comprehensive Overview Usage Rule
+
+The `comprehensive_themed_overview.md` files and source-specific themed overviews are active working documents, not archival notes. They exist so class preparation can be reused during in-class work instead of being recreated under time pressure.
+
+**Required use:**
+
+- For in-class activities, discussion posts, peer comments, and assignments, first consult the relevant module's `Reading & Media Content/comprehensive_themed_overview.md`.
+- When referencing a specific reading or media source, consult the matching source-specific overview in `Reading & Media Content/themed_overview/`.
+- Use these overviews to quickly recover reading themes, source connections, Puzzle Plan/EQUITAS alignment, teaching implications, and placement links.
+- Do not redo reading synthesis live during class unless the overviews are missing, incomplete, or contradicted by the prompt.
+- For informal in-class work, use the overviews enough to meet the activity requirements; do not overbuild citations or formal structure unless the assignment asks for it.
+- When using direct quotes, verify the quote comes from the source itself or clearly label it as an overview-based idea rather than a direct reading quote.
+
 ## Reading & Media Content Source Processing Protocol
 
 When a module has a `Reading & Media Content/source/` directory, process it using this protocol.
