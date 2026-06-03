@@ -22,4 +22,4 @@ Module 3 has **9 source items**, so `themed_overview/` should contain **exactly 
 
 ## Scope Note
 
-The `source/` directory also contains supplementary notes/transcripts (for example, Warner Wednesday talk notes and weekly prep notes). These supporting files inform synthesis but are not counted as core source items for themed overview count validation.
+The `source/` directory also contains supplementary notes/transcripts (for example, Warner Wednesday talk notes, Art Literacy transcript notes, and weekly prep notes). These supporting files inform synthesis but are not counted as core source items for themed overview count validation.
