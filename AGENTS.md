@@ -94,7 +94,7 @@ Follow this process unless Piter explicitly asks for something different:
 5. **Ground work in course materials.** Connect to readings, videos, assignments, and placement examples when relevant.
 6. **Use the Puzzle Plan theme consistently.** Do not produce generic teaching reflections when the assignment can connect to access, neurodivergence, CLD identity, chronic illness, trauma, depression, or overlapping identities.
 7. **Be explicit about uncertainty.** If readings, files, or prompts are not accessible, say so instead of inventing details.
-8. **Verify before linking.** When a file is created or updated, verify it exists at the exact EDU498 path before giving the user the link.
+8. **Verify before linking.** When a file is created or updated, verify it exists at the exact EDU498 path before giving the user a link.
 
 ## Placement Evidence Pattern
 
@@ -133,6 +133,18 @@ The `comprehensive_themed_overview.md` files and source-specific themed overview
 - Do not redo reading synthesis live during class unless the overviews are missing, incomplete, or contradicted by the prompt.
 - For informal in-class work, use the overviews enough to meet the activity requirements; do not overbuild citations or formal structure unless the assignment asks for it.
 - When using direct quotes, verify the quote comes from the source itself or clearly label it as an overview-based idea rather than a direct reading quote.
+
+## Source-Specific Reference Rule
+
+Never use vague phrases such as "Module 1 readings," "Module 2 readings," "Module 3 readings," or "the module readings" as the actual source reference in a journal, post, assignment, or polished response.
+
+Module labels may be used only for organization, such as naming a folder, week, or class session. They must not replace the names of the actual sources.
+
+When connecting writing to course materials, name the specific source or sources and explain why they matter. For example, write "Knobel and Lankshear helped me name these practices as new literacies," "Price-Dennis, Holmes, and Smith connect this to inclusive digital literacy," or "Melo-Pfeifer and Gertz help frame this as critical intercultural news literacy." Do not write "Module 3 readings helped me understand..." unless the sentence immediately names the specific sources being synthesized.
+
+For synthesis paragraphs, it is acceptable to group sources, but the group must still be named. Example: "Knobel and Lankshear, Price-Dennis/Holmes/Smith, and Brooks and Frankel collectively helped me see digital literacy as participatory, accessible, and connected to students' identities." This keeps references precise while avoiding unnecessary verbosity.
+
+When Piter asks for surgical edits, replace placeholder phrases like `<properly reference readings>` with source-specific references only. Do not rewrite the whole section unless Piter asks.
 
 ## Reading & Media Content Source Processing Protocol
 
