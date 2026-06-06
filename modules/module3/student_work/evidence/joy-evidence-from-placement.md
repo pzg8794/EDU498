@@ -143,6 +143,17 @@ The countdown to turning on the fan was collective anticipation. The fan turning
 
 This was a deliberate redesign. The original plan was a standard demo. Piter changed the approach so collective success, not individual performance, became the entry point to the material. That is joy by design: belonging before building, shared accomplishment before solo production.
 
+### Image Evidence
+
+![Kindergarten fan circuit demo](images/kindergarten-fan-circuit-demo.jpg)
+
+*Fan circuit setup — battery pack, Play-Doh conductors, wires, and switch. The created literacy object from the collective demo.*
+
+![Students at the circuit demo table, faces blurred](images/table-group-circuits-blurred.jpg)
+
+*Students gathered for the fan/light demonstration — collective participation, shared attention.*
+
+
 ---
 
 ## Example 6 — Joy as Making: Squishy Circuits Airplane Build
@@ -173,36 +184,38 @@ The airplane build required students to read a model, follow a construction sequ
 
 The three-part design — collective demo, schema video, then small-group build — front-loaded belonging and understanding before asking students to produce. That made the independent production phase joyful rather than stressful.
 
----
-
-## Image Evidence To Add
-
-The final submission should include privacy-safe images from the squishy circuits lessons. Prioritize images that show products, materials, and hands rather than identifiable student faces.
-
-| Image Slot | Suggested File Name | What the Image Should Show | Why It Strengthens the Assignment |
-|---|---|---|---|
-| Image 1 | `images/kindergarten-fan-circuit-demo.jpg` | Fan/light circuit setup with battery, wires, Play-Doh, and switch | Shows the created literacy object and physical-digital vocabulary in action |
-| Image 2 | `images/kindergarten-airplane-build-materials.jpg` | Play-Doh, motor/fan, wings/body pieces, or building materials | Shows aesthetic fulfillment, design, and multimodal making |
-| Image 3 | `images/kindergarten-airplane-finished.jpg` | Finished squishy circuit airplane or final product | Shows the final artifact students built and shared |
-| Image 4 | `images/collaborative-making-hands-only.jpg` | Students' hands or group materials, cropped to protect identity | Shows collaboration, shared authorship, and joy without exposing students |
-
 ### Image Evidence
-
-![Kindergarten fan circuit demo](images/kindergarten-fan-circuit-demo.jpg)
-
-*Fan/light circuit setup — battery, wires, Play-Doh, and switch. Physical-digital vocabulary in action.*
 
 ![Kindergarten airplane build materials](images/kindergarten-airplane-build-materials.jpg)
 
-*Airplane build materials: motor, fan, wings, body pieces. Aesthetic fulfillment, design, and multimodal making.*
+*Overhead view of airplane build materials — finished airplane with battery pack, circuit wiring, and instruction card.*
 
 ![Finished squishy circuit airplane](images/kindergarten-airplane-finished.jpg)
 
-*Finished squishy circuit airplane — the final artifact students built and shared together.*
+*Finished squishy circuit airplane — orange body, blue wings, fan motor with propeller. The final artifact.*
 
-![Collaborative making, hands/materials only](images/collaborative-making-hands-only.jpg)
+![Collaborative making, hands and materials only](images/collaborative-making-hands-only.jpg)
 
-*Collaborative making, hands and materials only. Shared authorship and joy, identity-safe.*
+*Hands-on circuit work at the making table — Squishy Circuits kit, Play-Doh components, shared authorship.*
+
+![Students building airplanes together, faces blurred](images/squishy-circuits-group-work-blurred.jpg)
+
+*Small-group airplane build in progress — students engaged with clay, components, and materials.*
+
+![Table group with airplane components, faces blurred](images/airplane-build-table-group-blurred.jpg)
+
+*Group at the making table with airplane parts and a nearly complete squishy circuit airplane.*
+
+![Collaborative energy at the making table, faces blurred](images/collaborative-making-energy-blurred.jpg)
+
+*Energy and engagement during the group build — making literacy visible.*
+
+![Three students with finished airplane, faces blurred](images/girls-airplane-trio-blurred.jpg)
+
+*Students with their completed squishy circuit airplane — aesthetic fulfillment and shared pride.*
+
+
+---
 
 ---
 
@@ -210,8 +223,8 @@ The final submission should include privacy-safe images from the squishy circuit
 
 | Source | Grade | What it documents |
 |---|---:|---|
-| [Grade 4 Minecraft Agent Challenge transcript](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/transcripts/grade-4/260312-grade-4-baris-agent-challenge.md) | 4 | Examples 1–4: Minecraft coding, debugging, counting, peer teaching |
-| [Kindergarten Circuit Demo / Play-Doh Airplane Prep transcript](https://github.com/pzg8794/teaching-placement/blob/teaching_placement_shared/transcripts/kindergarten/260407-kindergarten-justinger-circuit-demo-playdoh-airplane-prep.txt) | K | Examples 5–6: fan/light demo, vocabulary, airplane build preparation |
+| [Grade 4 Minecraft Agent Challenge transcript](https://github.com/pzg8794/EDU498/blob/main/modules/module3/student_work/evidence/grade-4-minecraft-agent-challenge-evidence.md) | 4 | Examples 1–4: Minecraft coding, debugging, counting, peer teaching |
+| [Kindergarten Circuit Demo / Play-Doh Airplane Prep transcript](https://github.com/pzg8794/EDU498/blob/main/modules/module3/student_work/evidence/kindergarten-circuit-demo-airplane-prep-evidence.md) | K | Examples 5–6: fan/light demo, vocabulary, airplane build preparation |
 | Squishy Circuits airplane build photos | K | Example 6: small-group build, finished product, aesthetic fulfillment |
 
 ---
@@ -219,24 +232,3 @@ The final submission should include privacy-safe images from the squishy circuit
 ## Final Use for Joy-Oriented Literacy Pursuit
 
 This evidence supports the assignment because it shows that the literacy pursuit was not only a written reflection. It was a classroom-based project shared with an authentic audience: students. The project embodied joy, love, and aesthetic fulfillment through collective problem-solving, physical-digital design, peer teaching, vocabulary development, and visible success.
-
----
-
-## Additional Image Evidence — Classroom Energy (Faces Blurred)
-
-The following photos show students engaged in collaborative making during the Squishy Circuits airplane build. All student faces have been blurred for privacy compliance.
-
-
-*Students engaged with Play-Doh clay, circuit components, and airplane materials.*
-
-
-*Small-group airplane build in progress — Squishy Circuits tray, motor, wires, and Play-Doh visible.*
-
-
-*Energy and engagement at the making table — finished airplane circuit and student collaboration.*
-
-
-*Group at work with Squishy Circuits kit, instruction card, and Play-Doh components.*
-
-
-*Students proudly showing their completed squishy circuit airplane at the table.*
