@@ -186,19 +186,23 @@ The final submission should include privacy-safe images from the squishy circuit
 | Image 3 | `images/kindergarten-airplane-finished.jpg` | Finished squishy circuit airplane or final product | Shows the final artifact students built and shared |
 | Image 4 | `images/collaborative-making-hands-only.jpg` | Students' hands or group materials, cropped to protect identity | Shows collaboration, shared authorship, and joy without exposing students |
 
-### Markdown image slots for final insertion
+### Image Evidence
 
-Once the image files are uploaded into `modules/module3/student_work/evidence/images/`, insert them below:
-
-```markdown
 ![Kindergarten fan circuit demo](images/kindergarten-fan-circuit-demo.jpg)
+
+*Fan/light circuit setup — battery, wires, Play-Doh, and switch. Physical-digital vocabulary in action.*
 
 ![Kindergarten airplane build materials](images/kindergarten-airplane-build-materials.jpg)
 
+*Airplane build materials: motor, fan, wings, body pieces. Aesthetic fulfillment, design, and multimodal making.*
+
 ![Finished squishy circuit airplane](images/kindergarten-airplane-finished.jpg)
 
+*Finished squishy circuit airplane — the final artifact students built and shared together.*
+
 ![Collaborative making, hands/materials only](images/collaborative-making-hands-only.jpg)
-```
+
+*Collaborative making, hands and materials only. Shared authorship and joy, identity-safe.*
 
 ---
 
