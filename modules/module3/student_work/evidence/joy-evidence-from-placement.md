@@ -219,3 +219,24 @@ The final submission should include privacy-safe images from the squishy circuit
 ## Final Use for Joy-Oriented Literacy Pursuit
 
 This evidence supports the assignment because it shows that the literacy pursuit was not only a written reflection. It was a classroom-based project shared with an authentic audience: students. The project embodied joy, love, and aesthetic fulfillment through collective problem-solving, physical-digital design, peer teaching, vocabulary development, and visible success.
+
+---
+
+## Additional Image Evidence — Classroom Energy (Faces Blurred)
+
+The following photos show students engaged in collaborative making during the Squishy Circuits airplane build. All student faces have been blurred for privacy compliance.
+
+
+*Students engaged with Play-Doh clay, circuit components, and airplane materials.*
+
+
+*Small-group airplane build in progress — Squishy Circuits tray, motor, wires, and Play-Doh visible.*
+
+
+*Energy and engagement at the making table — finished airplane circuit and student collaboration.*
+
+
+*Group at work with Squishy Circuits kit, instruction card, and Play-Doh components.*
+
+
+*Students proudly showing their completed squishy circuit airplane at the table.*
