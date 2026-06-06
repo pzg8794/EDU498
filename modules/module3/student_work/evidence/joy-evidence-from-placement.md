@@ -44,6 +44,11 @@ The student was reading directions, interpreting spatial logic, writing code blo
 
 A traditional literacy assessment would not see this. There is no written paragraph, no book response, and no worksheet. If the teacher does not notice, document, and name this as literacy work, it disappears.
 
+![Students working at the making table, faces blurred](images/squishy-circuits-group-work-blurred.jpg)
+
+*Students engaged in focused hands-on work — the same persistence and iterative making seen in the Minecraft coding sessions.*
+
+
 ---
 
 ## Example 2 — Peer Teaching as Joyful Expertise
@@ -70,6 +75,11 @@ Peer teaching is literacy. Explaining a process requires translating internal un
 
 No traditional rubric captures "explained agent pathfinding to a peer." Without teacher noticing and documentation, this moment of intellectual leadership is lost.
 
+![Students collaborating at a table, faces blurred](images/table-group-circuits-blurred.jpg)
+
+*Students gathered around shared materials — the same peer-support dynamic seen in the Minecraft agent challenge.*
+
+
 ---
 
 ## Example 3 — Collaborative Counting as Mathematical Literacy
@@ -91,6 +101,11 @@ A student could not determine how many steps the agent needed. Piter sat with th
 
 Spatial reasoning, mathematical thinking, and coding are multimodal literacy practices. The counting exchange was a co-constructed literacy event: the student and teacher were reading the digital environment together and converting it into action.
 
+![Hands on circuit components, collaborative making](images/collaborative-making-hands-only.jpg)
+
+*Hands co-constructing a circuit — the same count-together, build-together dynamic as the spatial reasoning exchange in Minecraft.*
+
+
 ---
 
 ## Example 4 — Student-Led Problem Framing
@@ -110,6 +125,11 @@ A student who was stuck on a tree-trunk puzzle narrated the problem out loud. Th
 ### Why this matters
 
 This was academic inquiry in student language. The student was not only following directions; they were reading an environment, naming a problem, and trying to make sense of a system that mattered to them.
+
+![Students engaged in problem-solving, faces blurred](images/collaborative-making-energy-blurred.jpg)
+
+*Student engagement and inquiry energy — the same curiosity and problem-naming visible in the tree-trunk puzzle moment.*
+
 
 ---
 
@@ -135,6 +155,11 @@ The contributor role rotated through three jobs:
 > *"Maybe we can talk to them a little bit about conductors and insulators."*  
 > *"Three, two, one — there you go! So let's show this fan, everyone."*
 
+![Kindergarten fan circuit demo](images/kindergarten-fan-circuit-demo.jpg)
+
+*The fan circuit: battery pack, Play-Doh conductors, wires, and switch — the created literacy object from the collective demo.*
+
+
 ### Why this matters
 
 The countdown to turning on the fan was collective anticipation. The fan turning on was a shared payoff: every student had contributed to making it happen. Students generated vocabulary, read a physical circuit, built a causal model, and participated orally and physically.
@@ -143,15 +168,9 @@ The countdown to turning on the fan was collective anticipation. The fan turning
 
 This was a deliberate redesign. The original plan was a standard demo. Piter changed the approach so collective success, not individual performance, became the entry point to the material. That is joy by design: belonging before building, shared accomplishment before solo production.
 
-### Image Evidence
+![Students gathered for the demo, faces blurred](images/airplane-build-table-group-blurred.jpg)
 
-![Kindergarten fan circuit demo](images/kindergarten-fan-circuit-demo.jpg)
-
-*Fan circuit setup — battery pack, Play-Doh conductors, wires, and switch. The created literacy object from the collective demo.*
-
-![Students at the circuit demo table, faces blurred](images/table-group-circuits-blurred.jpg)
-
-*Students gathered for the fan/light demonstration — collective participation, shared attention.*
+*Students gathered at the table for the Squishy Circuits demonstration — belonging before building.*
 
 
 ---
@@ -170,11 +189,21 @@ The airplane-building lesson followed a three-part instructional arc:
 2. **Schema-building through video and naming** — students watched how the airplane would be built and named parts such as body, wing, fan, motor, and Play-Doh.
 3. **Small-group airplane build** — students worked in groups to build their own squishy circuit airplanes, applying the vocabulary, sequence, and materials from the demo.
 
+![Overhead view of airplane build materials](images/kindergarten-airplane-build-materials.jpg)
+
+*Overhead view: finished airplane, battery pack, circuit wiring, and instruction card — the full material set students worked with.*
+
+
 ### Evidence
 
 > *"We're gonna show you a video on how to build the airplane. And then when we come next class, we're just gonna jump to it."*  
 > *"This is the body of the airplane..."*  
 > *"The winner, the one that does it — that does a good job, a good and a clean job — is gonna have a reward."*
+
+![Finished squishy circuit airplane](images/kindergarten-airplane-finished.jpg)
+
+*Finished squishy circuit airplane — orange body, blue wings, fan motor with propeller. The final artifact students built.*
+
 
 ### Why this matters
 
@@ -184,38 +213,10 @@ The airplane build required students to read a model, follow a construction sequ
 
 The three-part design — collective demo, schema video, then small-group build — front-loaded belonging and understanding before asking students to produce. That made the independent production phase joyful rather than stressful.
 
-### Image Evidence
+![Three students with their completed airplane, faces blurred](images/girls-airplane-trio-blurred.jpg)
 
-![Kindergarten airplane build materials](images/kindergarten-airplane-build-materials.jpg)
+*Students with their completed squishy circuit airplane — aesthetic fulfillment and shared pride after the three-part build arc.*
 
-*Overhead view of airplane build materials — finished airplane with battery pack, circuit wiring, and instruction card.*
-
-![Finished squishy circuit airplane](images/kindergarten-airplane-finished.jpg)
-
-*Finished squishy circuit airplane — orange body, blue wings, fan motor with propeller. The final artifact.*
-
-![Collaborative making, hands and materials only](images/collaborative-making-hands-only.jpg)
-
-*Hands-on circuit work at the making table — Squishy Circuits kit, Play-Doh components, shared authorship.*
-
-![Students building airplanes together, faces blurred](images/squishy-circuits-group-work-blurred.jpg)
-
-*Small-group airplane build in progress — students engaged with clay, components, and materials.*
-
-![Table group with airplane components, faces blurred](images/airplane-build-table-group-blurred.jpg)
-
-*Group at the making table with airplane parts and a nearly complete squishy circuit airplane.*
-
-![Collaborative energy at the making table, faces blurred](images/collaborative-making-energy-blurred.jpg)
-
-*Energy and engagement during the group build — making literacy visible.*
-
-![Three students with finished airplane, faces blurred](images/girls-airplane-trio-blurred.jpg)
-
-*Students with their completed squishy circuit airplane — aesthetic fulfillment and shared pride.*
-
-
----
 
 ---
 
