@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#101010"/>
+  <rect x="24" y="24" width="1552" height="952" rx="22" fill="#fdf7f9"/>
+  <rect x="24" y="24" width="1552" height="120" rx="22" fill="#101010"/>
+  <text x="800" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">LITERACY IS MORE THAN WORDS.</text>
+  <text x="800" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-style="italic" fill="#f6a4d6">It is how we build, express, and become visible.</text>
+
+  <rect x="60" y="185" width="410" height="120" rx="18" fill="#f1e7ff" stroke="#8a52c7" stroke-width="4"/>
+  <rect x="60" y="170" width="410" height="46" rx="12" fill="#7a3fc2"/>
+  <text x="265" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">ARTICLE I CHOSE</text>
+  <text x="265" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#111111">Literary Analysis Using Minecraft</text>
+  <text x="265" y="284" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111111">An Asian American Youth Crafts Her Literacy</text>
+
+  <rect x="60" y="370" width="410" height="305" rx="18" fill="#eef9e7" stroke="#77ad42" stroke-width="4"/>
+  <rect x="60" y="350" width="410" height="48" rx="12" fill="#65a832"/>
+  <text x="265" y="383" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff">MAIN INSIGHT</text>
+  <text x="95" y="430" font-family="Arial, sans-serif" font-size="25" fill="#111111">Literacy is not only traditional</text>
+  <text x="95" y="462" font-family="Arial, sans-serif" font-size="25" fill="#111111">reading and writing.</text>
+  <text x="95" y="512" font-family="Arial, sans-serif" font-size="24" fill="#111111">Students can show literacy through:</text>
+  <text x="115" y="555" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111111">building, designing, navigating,</text>
+  <text x="115" y="588" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111111">explaining, collaborating,</text>
+  <text x="115" y="621" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111111">and making meaning.</text>
+
+  <rect x="60" y="755" width="410" height="150" rx="18" fill="#e9f4ff" stroke="#2b84c6" stroke-width="4"/>
+  <rect x="60" y="735" width="410" height="48" rx="12" fill="#1f78bd"/>
+  <text x="265" y="768" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">WHY THIS MATTERS</text>
+  <text x="95" y="818" font-family="Arial, sans-serif" font-size="22" fill="#111111">Students have many ways to show</text>
+  <text x="95" y="849" font-family="Arial, sans-serif" font-size="22" fill="#111111">what they know. Honoring those</text>
+  <text x="95" y="880" font-family="Arial, sans-serif" font-size="22" fill="#111111">ways honors identity and potential.</text>
+
+  <rect x="525" y="185" width="550" height="560" rx="18" fill="#ffd7b3" stroke="#52318c" stroke-width="5"/>
+  <text x="800" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#5d36aa">MINECRAFT AS LITERACY</text>
+  <g font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#111111" text-anchor="middle">
+    <rect x="595" y="285" width="58" height="58" fill="#a748c7" stroke="#5a0d77" stroke-width="3"/>
+    <text x="624" y="375">BUILDING</text><text x="624" y="402">IDEAS</text>
+    <path d="M735 312 l45 45" stroke="#444" stroke-width="12"/><path d="M785 305 l-55 55" stroke="#444" stroke-width="10"/>
+    <text x="760" y="375">DESIGNING</text><text x="760" y="402">SOLUTIONS</text>
+    <circle cx="890" cy="315" r="31" fill="#4b4b4b" stroke="#222" stroke-width="5"/><path d="M890 315 l20 -20" stroke="#ff4b4b" stroke-width="6"/>
+    <text x="890" y="375">NAVIGATING</text><text x="890" y="402">WORLDS</text>
+    <rect x="995" y="285" width="72" height="50" rx="12" fill="#ffffff" stroke="#333" stroke-width="4"/><text x="1031" y="318" font-size="28">...</text>
+    <text x="1031" y="375">EXPLAINING</text><text x="1031" y="402">COLLABORATING</text>
+  </g>
+  <rect x="600" y="460" width="400" height="200" fill="#6aa84f"/>
+  <rect x="650" y="390" width="300" height="105" fill="#8ccf6a"/>
+  <rect x="720" y="515" width="160" height="145" fill="#3c78d8"/>
+  <rect x="690" y="440" width="220" height="85" fill="#3d2b1f"/>
+  <text x="800" y="710" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#3d1f6b">LITERACY IS HOW WE BUILD OUR WORLD</text>
+  <text x="800" y="743" text-anchor="middle" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#b80079">AND OUR VOICE IN IT.</text>
+
+  <rect x="525" y="790" width="550" height="110" rx="14" fill="#ffffff" stroke="#7a3fc2" stroke-width="4"/>
+  <text x="800" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#111111">A student's visible identity is never the whole story.</text>
+  <text x="800" y="872" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#111111">Literacy should help students become visible with dignity.</text>
+
+  <rect x="1130" y="185" width="390" height="230" rx="18" fill="#ffe7f1" stroke="#db4c91" stroke-width="4"/>
+  <rect x="1130" y="170" width="390" height="48" rx="12" fill="#db4c91"/>
+  <text x="1325" y="203" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">HIDDEN IDENTITY</text>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#111111">
+    <text x="1170" y="255">• Neurodivergence</text>
+    <text x="1170" y="287">• Chronic illness</text>
+    <text x="1170" y="319">• Trauma, grief, family complexity</text>
+    <text x="1170" y="351">• Multilingual / multicultural</text>
+    <text x="1170" y="383">• Pattern-based thinker</text>
+  </g>
+
+  <rect x="1130" y="485" width="390" height="230" rx="18" fill="#fff4cf" stroke="#e2b73f" stroke-width="4"/>
+  <rect x="1130" y="470" width="390" height="48" rx="12" fill="#e2b73f"/>
+  <text x="1325" y="503" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111111">VISIBLE IDENTITY</text>
+  <g font-family="Arial, sans-serif" font-size="23" fill="#111111">
+    <text x="1170" y="555">• Student / teacher-in-training</text>
+    <text x="1170" y="587">• Computer scientist / researcher</text>
+    <text x="1170" y="619">• Fit / athletic</text>
+    <text x="1170" y="651">• Confident</text>
+    <text x="1170" y="683">• High-achieving</text>
+  </g>
+
+  <rect x="1130" y="780" width="390" height="120" rx="18" fill="#eee3ff" stroke="#7a3fc2" stroke-width="4"/>
+  <text x="1325" y="825" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111111">WHOLE SELF</text>
+  <text x="1325" y="862" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111111">More than what people see,</text>
+  <text x="1325" y="892" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111111">and more than what they don't.</text>
+
+  <rect x="24" y="930" width="1552" height="46" fill="#101010"/>
+  <text x="800" y="962" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff">Teaching Takeaway: Students are layered. Design literacy spaces where every student can build, share, and be seen.</text>
+</svg>
