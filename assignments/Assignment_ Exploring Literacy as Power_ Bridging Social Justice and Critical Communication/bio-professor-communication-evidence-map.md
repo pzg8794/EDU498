@@ -2,7 +2,7 @@
 
 This source map supports the EDU498 assignment "Literacy as Power: Bridging Social Justice and Critical Communication." It gathers references that can help frame a social justice issue around ableist communication, accommodation access, and one-size-fits-all teaching in a STEM / bioinformatics course.
 
-This is not the final argument. It is a reference map. Use careful language such as "the transcript records a student reporting..." or "the advisor frames the issue as..." rather than presenting every claim as independently proven fact.
+This is not the final argument. It is a reference map. Preserve the emotional truth of the experience while also identifying what each source directly shows, what it records as student/peer perception, and what it supports as interpretation.
 
 ## Search Boundary
 
@@ -37,6 +37,18 @@ Puzzle Plan / EQUITAS connection:
 - Agency: the evidence shows a student seeking DSO, advisor, peer, and faculty support to regain control.
 - Criticality: the issue is not only one interaction; it is how institutional literacy and classroom literacy distribute power.
 - Transformation: the final paper can propose inclusive communication protocols that help all students, not only students with formal accommodations.
+
+## Local EDU498 Evidence Pack
+
+Additional Gmail and copied transcript evidence has been placed inside this EDU498 assignment folder:
+
+- [Neurodivergence Injustice Evidence Pack](neurodivergence-injustice-evidence/README.md)
+- [Gmail search log](neurodivergence-injustice-evidence/emails/gmail-search-log.md)
+- [Professor/course email evidence index](neurodivergence-injustice-evidence/emails/osier-email-evidence-index.md)
+- [Selected Gmail thread exports](neurodivergence-injustice-evidence/emails/selected-email-thread-exports.md)
+- [Additional pasted Gmail thread exports](neurodivergence-injustice-evidence/emails/additional-email-thread-paste-export.md)
+- [Megan advisor support index](neurodivergence-injustice-evidence/emails/megan-advisor-support-index.md)
+- [Slack export and transcript search log](neurodivergence-injustice-evidence/slack-and-transcripts/slack-export-and-transcript-search-log.md)
 
 ## High-Confidence Git-Linked References
 
@@ -103,21 +115,18 @@ Research and verify current official sources before final citation. Possible bri
 - Build peer-team norms for direct clarification instead of triangulated communication through the instructor.
 - Train STEM faculty on neurodivergent communication differences, chronic illness variability, and the difference between rigor and rigidity.
 
-## Language to Use Carefully
+## Evidence Handling
 
-Safer phrasing:
+This map is not meant to sanitize the emotional reality of the experience. Anger, hate, grief, exhaustion, and distrust can be evidence of what a learning environment did to a student. The assignment can use that pain as part of a social-change argument while still keeping the evidence trail clear.
+
+Useful phrasing for documented evidence:
 
 - "The transcript records a student reporting that..."
 - "A DSO-related conversation frames the issue as..."
 - "The evidence suggests a communication-access problem..."
 - "The concern is not only whether an accommodation existed, but whether the classroom communication design made the accommodation usable."
 
-Avoid in polished submission:
-
-- Personal insults.
-- Claims about intent unless a source directly establishes intent.
-- Naming the professor unless the assignment requires it and Piter approves.
-- Long copied transcript excerpts. Paraphrase and cite the source link/line instead.
+For formal claims, separate documented fact, student/peer perception, advisor framing, and interpretation. That distinction is about making the argument durable, not about making the feeling acceptable to people who caused or ignored the harm.
 
 ## Git Repository Sweep Notes
 
