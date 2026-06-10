@@ -1,5 +1,26 @@
 # Class 7 Activities Tracker: Towards a Pursuit of Identity
 
+**Student:** Piter Zacari Garcia Bautista  
+**Course:** EDU498 - Literacy Learning as Social Practice  
+**Class:** Class 7 - Towards a Pursuit of Identity  
+**Date prepared:** June 10, 2026  
+
+---
+
+## Wellness Check-In: Grateful Threads
+
+**Prompt:** Name one aspect of your identity that you are grateful for and explain why.
+
+**Response:**
+
+I am grateful for being the way I am because, even though it makes work and life harder at times, it also shapes how I notice patterns, make connections, and think creatively. More importantly, through the lens of my own experience, it helps me see students who may not fit the “default” expectation, while reminding me that identity is not a barrier; it is part of who we are and how we learn.
+
+**Anchor sentence:**
+
+> Identity is not a barrier; it is part of who we are and how we learn.
+
+---
+
 ## Activity 1: Layers of Me — Unearthing Identity
 
 **Status:** Completed in class.
@@ -60,6 +81,53 @@ My visible identity may show confidence, fitness, achievement, and academic succ
 ### Teaching takeaway
 
 Students are layered. A student may not show literacy in a format we expect, but it does not mean they are not thinking deeply. A student’s visible identity is never the whole story. Literacy should help students become visible with dignity.
+
+---
+
+## Asynchronous Activity: Layered Genius — Designing for Joy and Identity
+
+**Status:** Base selected and mini-unit draft prepared.
+
+### Selected base
+
+**Minecraft Education Coding FUNdamentals, redesigned as an identity-centered mini-unit for Ethan.**
+
+### Working title
+
+**Designing a Minecraft World That Carries Identity and Community Knowledge**
+
+### Why this base was selected
+
+This base lets the asynchronous activity build from existing work instead of starting over. It connects to the Minecraft Education / MakeCode lesson arc from prior placement and course work, while narrowing the focus to one compact Class 7 mini-unit lesson. The design keeps the assignment centered on the two pursuits emphasized so far: **Joy** and **Identity**.
+
+### Student profile
+
+**Ethan — Student 5, Computer Science**
+
+Ethan’s profile fits this design because it connects computer science, coding, game design, community storytelling, cultural knowledge, and mixed identity. The lesson gives Ethan and other students identity-safe choices without requiring private disclosure.
+
+### Mini-unit focus
+
+Students use Minecraft Education / MakeCode-style planning to design, code, debug, and explain a small digital place that represents community, identity, memory, belonging, or future possibility.
+
+### Pursuit of Joy
+
+Joy appears through choice, building, testing, debugging, peer support, visible success, and the chance to share something students made.
+
+### Pursuit of Identity
+
+Identity appears through what students choose to build, the community or cultural knowledge they represent, the roles they take on as coders/designers/storytellers, and the ways they explain their design choices.
+
+### Future pursuit brainstorms
+
+- **Skills:** sequencing, debugging, MakeCode, spatial reasoning, oral explanation, planning before coding.
+- **Intellect:** how code, design, and spatial choices communicate meaning.
+- **Criticality:** whose stories are represented in digital worlds, whose knowledge counts, and how technology can preserve or erase community stories.
+
+### Mini-unit materials
+
+- [Class 7 Async Activity Base Selection](class7-async-activity-base-selection.md)
+- [Mini-Unit LaTeX Draft](class7-layered-genius-minecraft-identity-mini-unit.tex)
 
 ---
 
