@@ -8,32 +8,110 @@
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{longtable}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{setspace}
 \usepackage{tabularx}
-\usepackage{xcolor}
 \usepackage{titlesec}
+\usepackage{xcolor}
 
-\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue}
+\definecolor{PrimaryRed}{HTML}{8B1E1E}
+\definecolor{SoftBlue}{HTML}{DDEEFF}
+\definecolor{DarkGray}{HTML}{333333}
+
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=black,citecolor=black}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.6em}
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
-\titleformat{\section}{\large\bfseries}{}{0em}{}
+\titleformat{\section}{\large\bfseries\color{PrimaryRed}}{}{0em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{0.5em}{}
+\setstretch{1.12}
 
 \begin{document}
 
+\begin{titlepage}
+\newgeometry{margin=0.85in}
+\thispagestyle{empty}
+
 \begin{center}
-{\LARGE Designing a Minecraft World That Carries Identity and Community Knowledge}\\[0.5em]
-{\large EDU498 Class 7 Asynchronous Mini-Unit Draft}\\[0.5em]
-Grade 4--5 Computer Science / Digital Literacy\\
-Student Profile Focus: Ethan (Student 5)
+{\large University of Rochester\\}
+{\normalsize Warner School of Education\\[0.35in]}
+
+{\color{PrimaryRed}\rule{\textwidth}{1.4pt}}\\[0.22in]
+{\Huge\bfseries Designing a Minecraft World\\[0.08in] That Carries Identity and\\[0.08in] Community Knowledge}\\[0.18in]
+{\Large Class 7 Asynchronous Mini-Unit Draft}\\[0.22in]
+{\color{PrimaryRed}\rule{0.78\textwidth}{0.7pt}}\\[0.32in]
+
+\colorbox{SoftBlue}{%
+\parbox{0.88\textwidth}{%
+\centering\vspace{0.12in}
+\textbf{Layered Genius: Designing for Joy and Identity}\\[0.05in]
+Grade 4--5 Computer Science / Digital Literacy mini-unit centered on Minecraft Education, multimodal meaning-making, identity-safe design, and community knowledge
+\vspace{0.12in}
+}%
+}
 \end{center}
+
+\vspace{0.38in}
+
+\begin{center}
+\renewcommand{\arraystretch}{1.35}
+\begin{tabular}{>{\bfseries\RaggedLeft}p{1.65in} p{4.9in}}
+Student & Piter Zacari Garcia Bautista \\
+Course & EDU498: Literacy Learning as Social Practice \\
+Class Session & Class 7: Towards a Pursuit of Identity \\
+Assignment & Layered Genius: Designing for Joy and Identity \\
+Mini-Unit Focus & Minecraft world-building as identity, community, and coding literacy \\
+Student Profile & Ethan, Student 5, Computer Science \\
+Submission Date & June 10, 2026 \\
+\end{tabular}
+\end{center}
+
+\vspace{0.34in}
+
+\begin{center}
+\begin{minipage}{0.86\textwidth}
+\itshape
+This draft uses Piter's Puzzle Plan and EQUITAS lens to treat Minecraft Education as a literacy space where students can build, code, debug, explain, and represent meaning without being reduced to one narrow academic mode.
+
+\vspace{0.22in}
+
+\tiny\centering\textbf{Author's Context Note:} The draft is intentionally focused on the two pursuits named for this Class 7 activity, \textbf{Joy} and \textbf{Identity}. Skills, Intellect, and Criticality are preserved as brainstorm notes for the next revision so the lesson can grow across Muhammad's full five-pursuit framework without overloading the first submission.
+\end{minipage}
+\end{center}
+
+\restoregeometry
+\end{titlepage}
+\clearpage
+\onehalfspacing
 
 \section*{Executive Summary}
 
-This mini-unit adapts an existing Minecraft Education coding and project-presentation base into a smaller Grade 4--5 mini-unit that explicitly centers the two pursuits required in the EDU498 asynchronous activity: \textbf{Joy} and \textbf{Identity}. The design is intentionally grounded in Minecraft as a multimodal literacy space where students build, code, explain, collaborate, revise, and present meaning. The mini-unit positions students as coders, builders, designers, and storytellers rather than treating coding as a purely technical task.
+This mini-unit adapts an existing Minecraft Education coding and project-presentation base into a smaller Grade 4--5 mini-unit that explicitly centers the two pursuits required in the EDU498 Class 7 asynchronous activity, \textbf{Joy} and \textbf{Identity}. The design is intentionally grounded in Minecraft as a multimodal literacy space where students build, code, explain, collaborate, revise, and present meaning. The mini-unit positions students as coders, builders, designers, and storytellers rather than treating coding as a purely technical task.
 
 The selected student profile is Ethan, a Computer Science-oriented learner whose strengths include systems thinking, collaboration, game design, storytelling, and community-minded problem solving. The mini-unit gives Ethan and his classmates a protected, low-risk way to represent identity through a meaningful digital place without forcing private disclosure. Students can create an actual, remembered, imagined, or future community place and explain how its structures, signs, colors, pathways, and coded interactions communicate meaning.
 
 The detailed lesson below is the first lesson in a short three-lesson arc. It is classroom-feasible for a Grade 4--5 placement because it uses chunked instructions, visual modeling, peer roles, and flexible entry points. It can run as a full Minecraft Education lesson, or as a hybrid lesson that begins with paper planning and transitions into Minecraft / MakeCode when devices are ready.
+
+\section*{Prompt, Approach, and Source Base}
+
+\textbf{The Class 7 ask:} the asynchronous activity, ``Layered Genius: Designing for Joy and Identity,'' asks us to define a grade level, discipline, and potential mini-unit focus; draft one lesson plan; choose or design a student profile; fully address Joy and Identity; and leave Skills, Intellect, and Criticality as brainstorm notes for later expansion. It also asks for multimodal and multiliteracies design.
+
+\textbf{Approach used for this draft:} instead of starting from nothing, I selected an existing Minecraft Education coding lesson family that already had placement evidence, prior unit planning, and EDU498 source connections. I then narrowed it into one Class 7 lesson that can grow into a three-lesson mini-unit across the next pursuits.
+
+\textbf{Sources taken into account:}
+\begin{itemize}[leftmargin=*]
+    \item the Class 7 prompt, \emph{Towards a Pursuit of Identity}, especially the asynchronous activity directions and Ethan's student profile;
+    \item the Class 7 tracker documenting the Layers of Me activity and the Minecraft literacy article connection;
+    \item the base-selection memo, \emph{Class 7 Async Activity Base Selection}, which compared Minecraft, squishy circuits, and AI/coding-as-literacy options;
+    \item Muhammad's Chapter 3 identity pursuit overview, which frames identity as self-definition and dignity rather than decoration;
+    \item Moje, Luke, Davies, and Street's literacy-and-identity overview, which helps ask what identity a task makes possible for students;
+    \item Skerrett's ``We Hatched in This Class'' overview, which supports repositioning students as capable contributors;
+    \item Moje's disciplinary literacy overview, which frames coding, debugging, modeling, and explaining systems as disciplinary literacy practices;
+    \item the Class 3 joy commitment, ``belonging before building,'' which treats joy as the structure of the lesson rather than an afterthought;
+    \item the Grade 4 Minecraft placement evidence, especially debugging, block-counting, peer teaching, and student-led problem framing.
+\end{itemize}
+
+\textbf{Why this base was the closest pick:} Minecraft plus Ethan gives the strongest balance of existing work, real placement evidence, Class 7 identity alignment, and multimodal literacy. The squishy-circuit option was also strong, especially for embodied science literacy and Sofia's profile, but it had less of a developed mini-unit arc. The AI/coding-as-literacy option was powerful for EQUITAS and criticality, but it was too complex for this first Joy + Identity draft.
 
 \section*{Mini-Unit Overview}
 
@@ -61,6 +139,20 @@ The detailed lesson below is the first lesson in a short three-lesson arc. It is
     \item Design choices communicate values, identity, belonging, and story.
     \item Feedback and debugging are part of learning, creativity, and care for an audience.
 \end{itemize}
+
+\section*{Pursuits Alignment at This Draft Stage}
+
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}Y}
+\toprule
+\textbf{Pursuit} & \textbf{How this draft uses the pursuit} \\
+\midrule
+Joy & Fully developed through choice, low-risk creation, visible progress, peer expertise, debugging as discovery, and the satisfaction of making a world that can be shared. \\
+Identity & Fully developed through meaningful place-making, identity-safe choice, voluntary disclosure, community knowledge, mixed identity, and student authorship. \\
+Skills & Brainstormed for later lessons through sequencing, decomposition, loops, debugging, interface navigation, and oral/written explanation. \\
+Intellect & Brainstormed for later lessons through questions about how code, design, space, and audience shape meaning. \\
+Criticality & Brainstormed for later lessons through questions about representation, respectful remixing, accessibility, and whose stories appear in digital worlds. \\
+\bottomrule
+\end{tabularx}
 
 \section*{Student Profile}
 
@@ -291,6 +383,10 @@ The design works for EDU498 because it holds together several commitments at onc
 
 This lesson also creates a strong bridge to later work. Skills, Intellect, and Criticality can be developed in subsequent lessons without overloading the first draft. That matters because the asynchronous task asks for an initial lesson plan, not a complete five-pursuit curriculum.
 
+Muhammad's identity pursuit matters here because the lesson does not ask students to decorate a coding task with culture after the fact. Identity shapes the product, the choices, the explanation, and the evidence of learning. Moje, Luke, Davies, and Street matter because the lesson asks what role the task gives students: Ethan is not only a student completing a coding assignment; he can become a coder, designer, storyteller, community thinker, and peer collaborator. Skerrett matters because the peer-helper and builder roles create room for students to be repositioned in the classroom. Moje's disciplinary literacy frame matters because computational thinking is treated as a literacy practice with tools, symbols, sequences, revisions, explanations, and audiences.
+
+Through the Puzzle Plan and EQUITAS lens, the lesson asks whether students are being given real access to authorship. A narrow coding task might only reveal who already understands the interface quickly. This redesigned task separates interface friction from computational thinking by using planning sheets, partner roles, sketch-first options, oral explanation, and low-floor/high-ceiling design choices. That structure helps prevent students from being misread by one narrow performance mode.
+
 \section*{Implementation Notes for Placement and Feasibility}
 
 \begin{itemize}[leftmargin=*]
@@ -304,11 +400,16 @@ This lesson also creates a strong bridge to later work. Skills, Intellect, and C
 \section*{Selected Reference Notes}
 
 \begin{itemize}[leftmargin=*]
-    \item CSTA K--12 Computer Science Standards (Level 1B Algorithms \& Programming; Impacts of Computing)
-    \item ISTE Standards for Students (Innovative Designer, Computational Thinker, Creative Communicator, Global Collaborator)
-    \item Minecraft Education lesson library, Code Builder support, and MakeCode for Minecraft documentation
-    \item Multiliteracies scholarship emphasizing broader views of literacy across communication modes and diverse cultural contexts
-    \item Joy / identity framing drawn from culturally and historically responsive literacy work and the EDU498 Class 7 prompt
+    \item EDU498 Class 7 prompt, \emph{Towards a Pursuit of Identity}: asynchronous activity ``Layered Genius: Designing for Joy and Identity.''
+    \item Muhammad, G. (2020). \emph{Cultivating Genius}, Chapter 3: Identity.
+    \item Moje, E. B., Luke, A., Davies, B., \& Street, B. (2009). ``Literacy and identity: Examining the metaphors in history and contemporary research.''
+    \item Skerrett, A. (2012). ``We hatched in this class'': Repositioning of identity in and beyond a reading classroom.
+    \item Moje, E. B. (2015). ``Doing and teaching disciplinary literacy with adolescent learners: A social and cultural enterprise.''
+    \item Class 3 joy commitment: ``belonging before building.''
+    \item EDU498 Grade 4 Minecraft placement evidence: debugging, collaborative counting, peer teaching, and student-led problem framing.
+    \item CSTA K--12 Computer Science Standards (Level 1B Algorithms \& Programming; Impacts of Computing).
+    \item ISTE Standards for Students (Innovative Designer, Computational Thinker, Creative Communicator, Global Collaborator).
+    \item Minecraft Education lesson library, Code Builder support, and MakeCode for Minecraft documentation.
 \end{itemize}
 
 \end{document}

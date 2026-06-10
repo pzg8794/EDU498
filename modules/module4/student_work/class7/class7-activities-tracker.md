@@ -128,6 +128,7 @@ Identity appears through what students choose to build, the community or cultura
 
 - [Class 7 Async Activity Base Selection](class7-async-activity-base-selection.md)
 - [Mini-Unit LaTeX Draft](class7-layered-genius-minecraft-identity-mini-unit.tex)
+- [Compiled Mini-Unit PDF](class7-layered-genius-minecraft-identity-mini-unit.pdf)
 
 ---
 
