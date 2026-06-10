@@ -1,0 +1,314 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{xcolor}
+\usepackage{titlesec}
+
+\hypersetup{colorlinks=true,linkcolor=black,urlcolor=blue}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.6em}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+
+\begin{document}
+
+\begin{center}
+{\LARGE Designing a Minecraft World That Carries Identity and Community Knowledge}\\[0.5em]
+{\large EDU498 Class 7 Asynchronous Mini-Unit Draft}\\[0.5em]
+Grade 4--5 Computer Science / Digital Literacy\\
+Student Profile Focus: Ethan (Student 5)
+\end{center}
+
+\section*{Executive Summary}
+
+This mini-unit adapts an existing Minecraft Education coding and project-presentation base into a smaller Grade 4--5 mini-unit that explicitly centers the two pursuits required in the EDU498 asynchronous activity: \textbf{Joy} and \textbf{Identity}. The design is intentionally grounded in Minecraft as a multimodal literacy space where students build, code, explain, collaborate, revise, and present meaning. The mini-unit positions students as coders, builders, designers, and storytellers rather than treating coding as a purely technical task.
+
+The selected student profile is Ethan, a Computer Science-oriented learner whose strengths include systems thinking, collaboration, game design, storytelling, and community-minded problem solving. The mini-unit gives Ethan and his classmates a protected, low-risk way to represent identity through a meaningful digital place without forcing private disclosure. Students can create an actual, remembered, imagined, or future community place and explain how its structures, signs, colors, pathways, and coded interactions communicate meaning.
+
+The detailed lesson below is the first lesson in a short three-lesson arc. It is classroom-feasible for a Grade 4--5 placement because it uses chunked instructions, visual modeling, peer roles, and flexible entry points. It can run as a full Minecraft Education lesson, or as a hybrid lesson that begins with paper planning and transitions into Minecraft / MakeCode when devices are ready.
+
+\section*{Mini-Unit Overview}
+
+\textbf{Mini-unit title:} Designing a Minecraft World That Carries Identity and Community Knowledge
+
+\textbf{Grade / discipline:} Grade 4--5 Computer Science / Digital Literacy
+
+\textbf{Mini-unit length:} 3 lessons of approximately 60 minutes each
+
+\textbf{Source base:} Existing Minecraft Education coding fundamentals and project-presentation lesson family, resized into a Joy + Identity mini-unit for EDU498.
+
+\textbf{Essential question:} How can code, design, and digital place-making communicate who we are, what matters to us, and what our communities know?
+
+\textbf{Mini-unit arc:}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Lesson 1: Plan a Meaningful Place.} Students analyze examples, choose a meaningful place concept, sketch a small Minecraft world, and decompose the build into manageable design or coding steps.
+    \item \textbf{Lesson 2: Build and Debug.} Students create or revise their digital place in Minecraft Education, using block code and/or structured building routines to add interaction, signage, or repeated design elements.
+    \item \textbf{Lesson 3: Share and Reflect.} Students present their world, explain how the design communicates identity or community knowledge, and respond to peer feedback.
+\end{itemize}
+
+\textbf{Enduring understandings:}
+\begin{itemize}[leftmargin=*]
+    \item Digital worlds can function as texts.
+    \item Coding is a way of expressing ideas, not only a way of following commands.
+    \item Design choices communicate values, identity, belonging, and story.
+    \item Feedback and debugging are part of learning, creativity, and care for an audience.
+\end{itemize}
+
+\section*{Student Profile}
+
+\textbf{Name:} Ethan (Student 5)
+
+\textbf{Identity and strengths:}
+\begin{itemize}[leftmargin=*]
+    \item Seneca / Haudenosaunee heritage and mixed identity
+    \item Interested in computer science, coding, game design, digital storytelling, and community problem-solving
+    \item Strong analytical thinker who enjoys systems, patterns, and improving ideas
+    \item Collaborative and community-minded; may connect learning to place, family, land, and cultural knowledge
+\end{itemize}
+
+\textbf{Instructional implications:}
+\begin{itemize}[leftmargin=*]
+    \item Ethan should be able to show identity through self-chosen representation rather than teacher-assigned cultural symbols.
+    \item The lesson should validate multiple legitimate entry points into identity: land, community, hobbies, family traditions, local places, imagined futures, or collaborative care spaces.
+    \item The task should recognize Ethan as a coder and designer, not only as a student who is asked to ``share about culture.''
+    \item Private disclosure is never required. Fictionalized, aspirational, or symbolic representations are valid.
+\end{itemize}
+
+\textbf{Why this profile fits the mini-unit:} Ethan's profile aligns naturally with Minecraft Education because it brings together coding, building, storytelling, collaboration, and the possibility of representing community knowledge in a digital form.
+
+\section*{Lesson Focus}
+
+\textbf{Mini-unit focus statement:} Students design and begin building a small Minecraft place that communicates identity, community, belonging, or future possibility. They use planning, decomposition, code-informed thinking, and explanation to show that digital design is a form of literacy.
+
+\textbf{Lesson 1 focus:} Students will create a design plan for a small Minecraft world and begin a prototype that includes at least one meaningful design decision and one planned or tested sequence of build/code steps.
+
+\textbf{Student-friendly learning target:} I can plan and begin to build a Minecraft place that shows something important about identity or community, and I can explain how my design choices carry meaning.
+
+\textbf{Student-friendly success criteria:}
+\begin{itemize}[leftmargin=*]
+    \item I chose a place idea that matters to me, my community, or a story I want to tell.
+    \item I broke my idea into smaller parts I can build or code.
+    \item I tested at least one part of my build or sequence.
+    \item I can explain one design choice and why it matters.
+\end{itemize}
+
+\section*{Pursuit of Joy}
+
+Joy in this mini-unit is not treated as a reward after academic work; it is part of the academic design. Students experience joy through meaningful choice, visible creation, peer support, experimentation, revision, and the satisfaction of seeing an idea become playable and shareable.
+
+The lesson makes joy structurally visible through the following moves:
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Choice with safety:} students choose the place they want to design instead of being assigned a single theme.
+    \item \textbf{Visible progress:} even a simple sign, path, doorway, garden, meeting space, or coded motion counts as meaningful movement.
+    \item \textbf{Low-floor / high-ceiling entry:} beginners can build a small, hand-placed scene; advanced students can automate repeated design elements with loops or agent-supported building.
+    \item \textbf{Debugging as discovery:} mistakes are treated as information and part of the build story.
+    \item \textbf{Peer expertise:} students can take roles such as builder, navigator, debugger, or explainer, allowing competence to be recognized in multiple ways.
+\end{itemize}
+
+\section*{Pursuit of Identity}
+
+Identity is addressed through representation, voice, privacy, and recognition. Students are invited to create a digital place that carries something meaningful: a community garden, gathering place, rink, library corner, coding club room, family kitchen, local landmark, future community center, or another place chosen by the student.
+
+The lesson protects identity by design:
+\begin{itemize}[leftmargin=*]
+    \item students choose what to reveal and what to keep private;
+    \item students may build from lived experience, imagination, or future aspiration;
+    \item students explain meaning through words, screenshots, labels, oral talk, or teacher conference;
+    \item identity is framed broadly enough to include cultural, social, geographic, linguistic, and interest-based belonging.
+\end{itemize}
+
+Because Ethan's profile includes Seneca / Haudenosaunee heritage, the lesson must avoid essentializing Indigenous identity into a single visual token. Culturally specific references are welcome only when student-chosen and handled respectfully. Consultation, family/community connection, and voluntary disclosure remain important principles when classroom work touches Indigenous identity or community knowledge.
+
+\section*{Multimodal and Multiliteracies Design}
+
+This mini-unit treats literacy as the ability to make and communicate meaning across multiple modes. Students read worlds, design worlds, build worlds, talk about worlds, and sometimes code how worlds behave.
+
+\textbf{Modes students use:}
+\begin{itemize}[leftmargin=*]
+    \item spatial design (layout, paths, landmarks, entrances, gathering spaces)
+    \item visual design (color, blocks, signs, symbols, screenshots)
+    \item procedural design (sequencing, loops, agent steps, build order)
+    \item oral language (partner talk, explanation, presentation)
+    \item written language (labels, design notes, exit reflection)
+    \item social meaning-making (feedback, collaboration, revision)
+\end{itemize}
+
+\textbf{Why this matters:} the task expands traditional literacy by recognizing building, coding, annotating, demonstrating, and presenting as meaning-making practices. Students are not only consuming digital texts; they are authoring them.
+
+\textbf{Accessible design features:}
+\begin{itemize}[leftmargin=*]
+    \item sketch-first or build-first option
+    \item sentence frames for explanation
+    \item visual model and sample planning sheet
+    \item option to explain orally instead of writing long responses
+    \item chunked checklist and timer cues
+    \item paired work with clear roles
+    \item optional use of screenshots to reduce working-memory load during explanation
+\end{itemize}
+
+\section*{Initial Lesson Plan}
+
+\textbf{Lesson title:} Planning and Prototyping a Meaningful Minecraft Place
+
+\textbf{Duration:} 60 minutes
+
+\textbf{Placement/classroom context:} Grade 4--5 Computer Science / Digital Literacy workshop or integrated block; works best with access to Minecraft Education, but can also run as paper planning + teacher demo if devices are temporarily limited.
+
+\textbf{Learning objectives:}
+\begin{enumerate}[leftmargin=*]
+    \item Students will identify a place that can communicate identity, community knowledge, belonging, or future possibility.
+    \item Students will decompose the place into smaller parts and sequence at least three build or code actions.
+    \item Students will begin a prototype and test at least one design or programmed action.
+    \item Students will explain one design choice using language of meaning, audience, and purpose.
+\end{enumerate}
+
+\textbf{Standards alignment:}
+
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.18\textwidth}Y Y}
+\toprule
+\textbf{Framework} & \textbf{Code / strand} & \textbf{Connection to lesson} \\
+\midrule
+CSTA & 1B-AP-10 & Students create or plan programs/build routines that include sequences and may include events, loops, or conditionals. \\
+CSTA & 1B-AP-11 & Students break a large world idea into smaller, manageable build/code tasks. \\
+CSTA & 1B-AP-12 & Students may remix teacher models or existing MakeCode examples into a new artifact with personal meaning. \\
+CSTA & 1B-AP-15 & Students test and debug one portion of their design or program. \\
+CSTA & 1B-AP-17 & Students describe choices made during development in conferences, captions, presentations, or demonstrations. \\
+CSTA & 1B-IC-19 / 1B-IC-20 & Students consider usability, accessibility, and diverse perspectives when designing for an audience. \\
+ISTE & 1.4 Innovative Designer & Students use a design process, consider constraints, and refine a prototype. \\
+ISTE & 1.5 Computational Thinker & Students decompose problems and use algorithmic thinking to plan automated or ordered actions. \\
+ISTE & 1.6 Creative Communicator & Students use digital tools and presentation formats to communicate complex ideas visually. \\
+ISTE & 1.7 Global Collaborator & Students work in pairs or teams and respond to peer perspectives during planning and revision. \\
+\bottomrule
+\end{tabularx}
+
+\textbf{Materials:}
+\begin{itemize}[leftmargin=*]
+    \item Minecraft Education on classroom devices
+    \item projection system for teacher modeling
+    \item simple planning sheet with boxes for \emph{place idea}, \emph{important features}, \emph{3--5 build/code steps}, and \emph{why it matters}
+    \item pencils / crayons / markers
+    \item optional screenshot exemplars from teacher model
+    \item optional block-code reference cards for sequence, repeat, and event blocks
+    \item exit slip or digital reflection form
+\end{itemize}
+
+\textbf{Preparation before class:}
+\begin{itemize}[leftmargin=*]
+    \item open a flat or pre-prepared world where students can build in a manageable area;
+    \item confirm Code Builder access and any required permissions;
+    \item prepare one model build that is meaningful but not overly polished (for example, a community garden with a sign, path, and repeated fence pattern);
+    \item print or distribute planning sheets and partner-role cards.
+\end{itemize}
+
+\textbf{Step-by-step lesson flow:}
+
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{0.13\textwidth}Y Y}
+\toprule
+\textbf{Time} & \textbf{Teacher and student activity} & \textbf{Purpose} \\
+\midrule
+0--7 min & \textbf{Welcome and hook.} Teacher shows two quick examples: one generic Minecraft structure and one meaningful place. Prompt: ``What makes a place feel meaningful, not just well built?'' Students turn and talk. & Activates the idea that design carries meaning, not only technical skill. \\
+7--15 min & \textbf{Mini-lesson and model.} Teacher models a small place plan and names a few choices aloud: sign placement, path direction, color choice, and one repeated pattern that could be built by hand or with code. Teacher names decomposition: ``entrance first, then sign, then path, then gathering spot.'' & Makes planning and computational thinking visible. \\
+15--20 min & \textbf{Choose a place concept.} Students choose a place tied to identity, community, belonging, or future possibility. Options may include real, imagined, symbolic, or collaborative places. & Ensures student agency and protects privacy. \\
+20--32 min & \textbf{Sketch and label.} Students complete the planning sheet: draw the place, label 3--5 important features, and write or dictate 3--5 build/code steps. Teacher circulates and conferences. & Moves from idea to manageable subproblems. \\
+32--45 min & \textbf{Prototype build.} Students begin building in Minecraft Education or annotate a paper prototype while watching a teacher live-demo if device access is delayed. Goal: complete one meaningful feature and test at least one sequence or repeated action. & Provides visible success, iteration, and early debugging. \\
+45--53 min & \textbf{Peer share.} In pairs, students explain: ``This place matters because...'' and ``One choice I made was...'' Partners respond with one warm comment and one suggestion. & Centers communication, audience, and feedback. \\
+53--60 min & \textbf{Reflection and close.} Exit slip: ``What does your place show about identity or community? What is your next build/code step?'' Teacher previews Lesson 2: building more, debugging more, and preparing for a share-out. & Captures formative assessment and next-step thinking. \\
+\bottomrule
+\end{tabularx}
+
+\textbf{Differentiation and access moves:}
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Chunked directions:} one task at a time (choose, sketch, label, prototype, explain).
+    \item \textbf{Visual modeling:} teacher model remains projected or printed for reference.
+    \item \textbf{Role clarity in pairs:} builder, navigator, debugger, or explainer.
+    \item \textbf{Flexible output:} students may write, draw, speak, or annotate screenshots.
+    \item \textbf{Sentence stems:} ``This place matters because...'' ``I chose this feature because...'' ``My next step is...''
+    \item \textbf{Flexible difficulty:} beginners can focus on one strong scene; advanced students can add loops, agent support, or audience-centered accessibility features.
+    \item \textbf{Regulation support:} quiet workspace option, timer cues, and predictable routine.
+    \item \textbf{Identity safety:} no student is required to disclose personal or cultural details; symbolic and fictionalized versions are valid.
+\end{itemize}
+
+\textbf{Assessment and criteria:}
+
+\textit{Formative evidence collected during Lesson 1}
+\begin{itemize}[leftmargin=*]
+    \item planning sheet or oral planning conference
+    \item teacher observation during decomposition and build start
+    \item peer-share explanation
+    \item exit slip
+\end{itemize}
+
+\textit{Success criteria for teacher feedback}
+\begin{enumerate}[leftmargin=*]
+    \item \textbf{Meaningful idea:} The student selected a place with a clear connection to identity, community, belonging, or future possibility.
+    \item \textbf{Computational planning:} The student broke the artifact into manageable steps or features.
+    \item \textbf{Prototype and revision:} The student began building or testing and identified a next revision step.
+    \item \textbf{Communication:} The student explained how at least one design choice carries meaning.
+\end{enumerate}
+
+\textbf{Possible extension:}
+Students who finish early add one audience-centered feature such as a welcome sign, guided path, accessible route, or repeated pattern built with a loop.
+
+\textbf{Possible low-tech backup:}
+If Minecraft access fails, students complete a full paper-world storyboard and annotate exactly which steps would later be automated with Code Builder or MakeCode.
+
+\section*{Brainstorm Notes for Skills, Intellect, and Criticality}
+
+\textbf{Skills (brainstorm only for later lessons):}
+\begin{itemize}[leftmargin=*]
+    \item sequencing, events, loops, debugging, simple conditionals
+    \item screenshot capture and presentation language
+    \item naming parts of a design, giving feedback, and revising from feedback
+\end{itemize}
+
+\textbf{Intellect (brainstorm only for later lessons):}
+\begin{itemize}[leftmargin=*]
+    \item compare how different design choices communicate different meanings
+    \item analyze how built environments guide movement and attention
+    \item connect algorithmic thinking to construction, storytelling, and audience design
+\end{itemize}
+
+\textbf{Criticality (brainstorm only for later lessons):}
+\begin{itemize}[leftmargin=*]
+    \item Whose stories are usually visible in digital worlds, and whose are missing?
+    \item How do accessibility, signage, paths, and audience needs shape welcoming design?
+    \item What does respectful remixing mean when using examples, cultural symbols, or shared community knowledge?
+\end{itemize}
+
+\section*{Reflection and Rationale}
+
+This mini-unit is intentionally smaller than the full Minecraft coding unit that informed it. The instructional move is not to reproduce the entire placement sequence, but to refine one part of it so that Joy and Identity become explicit curricular pursuits rather than side effects.
+
+The design works for EDU498 because it holds together several commitments at once. First, it preserves the existing strengths of the Minecraft lesson family: debugging, visible effort, peer support, and flexible entry points. Second, it answers the activity's identity emphasis by shifting the product from ``complete the coding task'' toward ``design a world that carries meaning.'' Third, it supports Ethan specifically by recognizing digital design as a legitimate literacy practice and by allowing identity to be represented through story, place, community, and future-making rather than disclosure alone.
+
+This lesson also creates a strong bridge to later work. Skills, Intellect, and Criticality can be developed in subsequent lessons without overloading the first draft. That matters because the asynchronous task asks for an initial lesson plan, not a complete five-pursuit curriculum.
+
+\section*{Implementation Notes for Placement and Feasibility}
+
+\begin{itemize}[leftmargin=*]
+    \item \textbf{Works with existing placement routines.} The lesson is realistic for classrooms already using Minecraft Education because it starts with a short model, a planning sheet, and guided build time.
+    \item \textbf{Device variability is manageable.} The sketch-first structure means students can still participate even if logins are slow or devices are shared.
+    \item \textbf{Permissions matter.} If Agent-based actions are used, the teacher should verify which commands require operator or worldbuilder permissions before class.
+    \item \textbf{Save/export reminder.} If MakeCode is used externally, students should be taught to save or export project files.
+    \item \textbf{Community respect matters.} If students choose culturally specific symbols, the teacher should frame respectful use, voluntary sharing, and consultation where appropriate.
+\end{itemize}
+
+\section*{Selected Reference Notes}
+
+\begin{itemize}[leftmargin=*]
+    \item CSTA K--12 Computer Science Standards (Level 1B Algorithms \& Programming; Impacts of Computing)
+    \item ISTE Standards for Students (Innovative Designer, Computational Thinker, Creative Communicator, Global Collaborator)
+    \item Minecraft Education lesson library, Code Builder support, and MakeCode for Minecraft documentation
+    \item Multiliteracies scholarship emphasizing broader views of literacy across communication modes and diverse cultural contexts
+    \item Joy / identity framing drawn from culturally and historically responsive literacy work and the EDU498 Class 7 prompt
+\end{itemize}
+
+\end{document}
