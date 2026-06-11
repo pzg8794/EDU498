@@ -4,6 +4,14 @@
 **Course:** EDU498 · Culturally-Historically Responsive Literacies  
 **Assignment Connection:** Joy-Oriented Literacy Pursuit  
 
+## Professor Feedback
+
+Professor feedback can be left in this GitHub issue:
+
+- [Professor feedback - Joy-Oriented Literacy Pursuit](https://github.com/pzg8794/EDU498/issues/2)
+
+If line-specific feedback is preferred, please reference the section title and/or quote the sentence being addressed.
+
 ## Governing Theme
 
 Joy in literacy depends on recognition and access. Students may already be doing rich literacy work through debugging, designing, explaining, collaborating, and revising, but that joy becomes invisible when schools only count traditional reading and writing. A joyful literacy classroom must be designed so students' strengths have real pathways in, and so their multimodal thinking is noticed, valued, and documented.
