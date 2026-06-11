@@ -1,0 +1,36 @@
+name: Build Joy-Oriented Literacy Pursuit PDF
+
+on:
+  push:
+    paths:
+      - 'modules/module3/student_work/submissions/joy_oriented_literacy_pursuit_piter_garcia_final.tex'
+      - '.github/workflows/build-joy-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y latexmk texlive-latex-base texlive-latex-recommended texlive-latex-extra
+
+      - name: Build PDF
+        run: |
+          cd modules/module3/student_work/submissions
+          latexmk -pdf -interaction=nonstopmode -halt-on-error joy_oriented_literacy_pursuit_piter_garcia_final.tex
+
+      - name: Commit generated PDF
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add modules/module3/student_work/submissions/joy_oriented_literacy_pursuit_piter_garcia_final.pdf
+          git diff --cached --quiet || git commit -m "Build Joy-Oriented Literacy Pursuit PDF"
+          git push
