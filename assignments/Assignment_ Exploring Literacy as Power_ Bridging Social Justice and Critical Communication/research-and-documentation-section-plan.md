@@ -18,6 +18,17 @@ or
 
 This section should satisfy the assignment requirement without sounding like the assignment prompt is being repeated back.
 
+## Correction to the Section Logic
+
+The earlier wording created an unnecessary overlap between:
+
+- **Relevant Sources and What They Show**
+- **What the Documentation Reveals**
+
+Those are too similar. We do **not** need both.
+
+The Research Findings section should not try to conclude the argument. That is the job of the **Critical Analysis** section. Research Findings should establish the topic, explain why it matters, and introduce the source base. The cases can be briefly previewed there, but the deeper interpretation belongs in Critical Analysis.
+
 ## Rubric Requirement Being Addressed
 
 The assignment asks us to:
@@ -31,7 +42,7 @@ The final draft should therefore organize this part around three reader-facing m
 
 1. **Identify the Topic(s)**
 2. **Why This Issue Matters**
-3. **Relevant Sources and What They Show**
+3. **Relevant Sources and Evidence Scope**
 
 ## Reader-Facing Structure for the Paper
 
@@ -46,11 +57,11 @@ Use this structure in the LaTeX draft:
 \subsection*{Why This Issue Matters}
 ...
 
-\subsection*{Relevant Sources and What They Show}
+\subsection*{Relevant Sources and Evidence Scope}
 ...
 ```
 
-This keeps the paper aligned with the rubric while avoiding awkward section names like "Defining the Issue" or "Evidence Base."
+Do not add a separate conclusive subsection inside Research Findings. End this section with a short bridge into Critical Analysis.
 
 ## 1. Identify the Topic(s)
 
@@ -162,9 +173,11 @@ The harm is serious because it can affect:
 
 The most important reason to draw attention to this issue is protection. If an adult graduate student with documentation habits, technical expertise, advisor support, and self-advocacy skills can still be harmed by inaccessible communication, then children and less-resourced students are at even greater risk.
 
-## 3. Relevant Sources and What They Show
+## 3. Relevant Sources and Evidence Scope
 
-This subsection should replace the mechanical phrase "Evidence Base." The reader does not need to see our process as a list of files only. They need to see what each kind of source contributes to the argument.
+This subsection should replace the mechanical phrase "Evidence Base." The reader does not need our internal process as a list of files only. They need to know what categories of sources support the paper and why those sources matter.
+
+This subsection should be informative, not conclusive. It should introduce the documentation and prepare the reader for the Critical Analysis section.
 
 ### Source Category 1: BIO/STEM Evidence Map
 
@@ -270,18 +283,14 @@ How to describe it in the paper:
 
 > Teaching-placement transcripts provide the K--12 bridge. They show that children often demonstrate understanding through action, tools, collaboration, movement, design, peer explanation, and repeated guided practice. That makes communication access a preventive responsibility, not a repair step after harm.
 
-## Core Research Findings Argument
-
-The section should lead readers to this finding:
-
-> The documented BIO/STEM case shows that communication access is not a minor classroom preference. It is a social justice issue because the language and structure of a course determine who can understand expectations, use accommodations, maintain health, participate in teams, and be recognized as capable. The evidence shows multiple communication-access breakdowns: verbal-only graded requirements, ambiguous grading language, health disclosures that shifted responsibility back to the student, accommodation communication that felt like a limit, and digital team tools without shared norms. These records matter because they show how an adult with resources can still be harmed, which raises urgent concern for children and students with less power.
-
 ## What This Section Should Not Do
 
 The Research Findings section should not:
 
 - sound like an internal planning checklist;
 - use awkward rubric language as section titles;
+- include a redundant conclusive subsection;
+- perform the full critical analysis too early;
 - become a list of grievances;
 - make unsupported claims about intent;
 - make the professor the entire topic;
@@ -298,8 +307,8 @@ The Research Findings section should:
 2. define the topic in natural language;
 3. explain why the issue matters;
 4. connect the issue to STEM and local teaching contexts;
-5. explain the relevant sources and what they show;
-6. preview the strongest documented cases;
+5. explain the relevant source categories and what each contributes;
+6. briefly preview the strongest documented cases without fully analyzing them;
 7. connect adult harm to child vulnerability;
 8. prepare the reader for the Critical Analysis section.
 
@@ -318,29 +327,17 @@ Instead, update the draft to use:
 \subsection*{Why This Issue Matters}
 ...
 
-\subsection*{Relevant Sources and What They Show}
+\subsection*{Relevant Sources and Evidence Scope}
 ...
 ```
 
-Then keep the existing cases, but introduce them under a smoother transition such as:
-
-```latex
-\subsection*{What the Documentation Reveals}
-```
-
-The case structure can stay:
-
-1. A verbal-only rule became an access barrier.
-2. Health disclosure became team responsibility.
-3. Accommodations became a limit instead of a design floor.
-4. Ambiguous grading language became policy literacy.
-5. Team communication tools were not enough without norms.
+Do **not** add a separate subsection called `What the Documentation Reveals`. That work belongs in Critical Analysis.
 
 ## Bridge to Critical Analysis
 
-End the section with this move:
+End the section with a short transition, not a conclusion:
 
-> These findings prepare the critical analysis that follows: literacy is not only whether students can read words on a page. Literacy is whether students can access the communication systems that decide grades, participation, accommodations, belonging, and recognition.
+> These sources prepare the critical analysis that follows: literacy is not only whether students can read words on a page. Literacy is whether students can access the communication systems that decide grades, participation, accommodations, belonging, and recognition.
 
 ## Alignment Check
 
@@ -351,6 +348,7 @@ This revised plan aligns with the rubric because it:
 - names relevant sources and what each source contributes;
 - attends to language, tone, terminology, accessibility, and power;
 - avoids mechanical rubric copying in the final paper;
+- avoids doing the critical analysis too early;
 - prepares the paper for critical analysis and the present-day connection.
 
 ## Next Step
