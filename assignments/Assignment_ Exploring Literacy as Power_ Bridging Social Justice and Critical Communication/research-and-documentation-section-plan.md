@@ -18,16 +18,31 @@ or
 
 This section should satisfy the assignment requirement without sounding like the assignment prompt is being repeated back.
 
+## Source Architecture Correction
+
+The BIO/STEM course example must be treated as **one primary case source**, not as scattered unrelated sources.
+
+The paper should not cite or describe the search process, missing Slack exports, file-management details, or every internal evidence file as if each one is a separate source category. That makes the section messy and weakens the argument.
+
+Instead, the BIO/STEM evidence should be consolidated into one source of truth:
+
+> **Primary BIO/STEM Communication-Access Case File**
+
+This single case file can draw from multiple evidence types:
+
+- course emails;
+- selected transcript excerpts;
+- advisor-support records;
+- course documentation;
+- team communication records where available;
+- technical/scientific communication examples;
+- accommodation-related communication.
+
+The paper should present the BIO/STEM case as one curated case study with multiple documented examples, not as a pile of separate evidence files.
+
 ## Correction to the Section Logic
 
-The earlier wording created an unnecessary overlap between:
-
-- **Relevant Sources and What They Show**
-- **What the Documentation Reveals**
-
-Those are too similar. We do **not** need both.
-
-The Research Findings section should not try to conclude the argument. That is the job of the **Critical Analysis** section. Research Findings should establish the topic, explain why it matters, and introduce the source base. The cases can be briefly previewed there, but the deeper interpretation belongs in Critical Analysis.
+The Research Findings section should not try to conclude the argument. That is the job of the **Critical Analysis** section. Research Findings should establish the topic, explain why it matters, and introduce the source base. The strongest BIO/STEM examples can be briefly previewed, but the deeper interpretation belongs in Critical Analysis.
 
 ## Rubric Requirement Being Addressed
 
@@ -175,83 +190,43 @@ The most important reason to draw attention to this issue is protection. If an a
 
 ## 3. Relevant Sources and Evidence Scope
 
-This subsection should replace the mechanical phrase "Evidence Base." The reader does not need our internal process as a list of files only. They need to know what categories of sources support the paper and why those sources matter.
+This subsection should be simple and clean. It should name the source categories without turning the paper into an evidence archive tour.
 
-This subsection should be informative, not conclusive. It should introduce the documentation and prepare the reader for the Critical Analysis section.
+### Source 1: Primary BIO/STEM Communication-Access Case File
 
-### Source Category 1: BIO/STEM Evidence Map
+This is the main source for the paper's adult case. It should be treated as **one single source of truth** containing multiple evidence examples.
 
-File:
+The case file may draw from:
 
-- `bio-professor-communication-evidence-map.md`
-
-What it contributes:
-
-- shows the overall evidence landscape;
-- documents the broader transcript/note sweep;
-- identifies key BIO/STEM events and evidence leads;
-- prevents the paper from relying only on memory.
-
-How to describe it in the paper:
-
-> A curated evidence map was used to organize the BIO/STEM course records, including transcripts, notes, and cross-course references to communication-access concerns.
-
-### Source Category 2: Email Records and Thread Exports
-
-Files:
-
-- `neurodivergence-injustice-evidence/emails/osier-email-evidence-index.md`
-- `neurodivergence-injustice-evidence/emails/selected-email-thread-exports.md`
-- `neurodivergence-injustice-evidence/emails/additional-email-thread-paste-export.md`
-
-What they contribute:
-
-- handwritten peer-evaluation requirement;
-- health-related absence and team responsibility;
-- later health absence and Flex Plan limit;
-- Week 7 / first-ten submission policy;
-- Week 4 formative feedback / assignment-box confusion;
-- technical and scientific communication issues around formats, reference materials, AI, Google Docs, and flat files.
-
-How to describe them in the paper:
-
-> The email record shows repeated moments where classroom requirements, health communication, grading policies, and technical expectations had to be interpreted across unclear or uneven communication channels.
-
-### Source Category 3: Advisor Support and Institutional Literacy
-
-File:
-
-- `neurodivergence-injustice-evidence/emails/megan-advisor-support-index.md`
+- course emails;
+- selected transcript excerpts;
+- advisor-support records;
+- course documentation;
+- team communication records where available;
+- technical/scientific communication examples;
+- accommodation-related communication.
 
 What it contributes:
 
-- shows institutional support translating the student's concerns into formal-access language;
-- validates that the issue was not merely emotional frustration;
-- connects the evidence to DSO, Ombuds, escalation, and support literacy.
+- shows how communication access barriers appeared across one BIO/STEM learning environment;
+- documents multiple cases without scattering them as separate unrelated sources;
+- supports the argument that one adult with resources can still be harmed by inaccessible communication;
+- gives the Critical Analysis section concrete examples to analyze.
+
+Examples to include in the case file:
+
+- verbal-only / handwritten peer-evaluation requirement;
+- ambiguous `10 out of 12` / `first ten submissions` grading language;
+- health-related absence communication shifting responsibility back to the sick student;
+- Flex Plan / accommodation communication experienced as a limit or warning;
+- team communication and project-expectation issues;
+- scientific/technical terminology and format expectations.
 
 How to describe it in the paper:
 
-> Advisor-support records show how institutional literacy became necessary when ordinary professor-student clarification was not enough. The advisor helped translate the experience into possible formal pathways, including DSO follow-up, Ombuds, and escalation.
+> The primary documentation for this paper is a curated BIO/STEM communication-access case file built from course emails, selected transcript excerpts, advisor-support records, and related course documentation. I treat this as one case source because the goal is not to scatter the evidence across disconnected files, but to examine how multiple communication events formed a pattern of access barriers in one learning environment.
 
-### Source Category 4: Slack / Transcript Search and Team Communication Records
-
-Files/folder:
-
-- `neurodivergence-injustice-evidence/slack-and-transcripts/slack-export-and-transcript-search-log.md`
-- `neurodivergence-injustice-evidence/slack-and-transcripts/`
-
-What they contribute:
-
-- documents that a verified Slack export was not found;
-- honestly records the search boundary;
-- preserves transcript evidence about Slack/team communication;
-- supports the claim that tools alone do not create access without explicit norms.
-
-How to describe it in the paper:
-
-> The transcript and Slack-search records show that digital tools can support access only when a course also establishes shared norms for decisions, responsibilities, feedback, and conflict.
-
-### Source Category 5: EDU498 Readings and Course Frameworks
+### Source 2: EDU498 Readings and Course Frameworks
 
 Files:
 
@@ -261,13 +236,13 @@ Files:
 What they contribute:
 
 - give theory language for literacy as access, identity, skill, intellect, criticality, joy, language power, and disciplinary participation;
-- connect evidence to course content rather than leaving it as only personal documentation.
+- connect the BIO/STEM case to course content rather than leaving it as only personal documentation.
 
 How to describe it in the paper:
 
-> EDU498 readings help interpret the evidence as a literacy issue: students are not only reading words; they are being positioned by language, power, identity, disciplinary norms, and access to classroom communication.
+> EDU498 readings help interpret the BIO/STEM case as a literacy issue: students are not only reading words; they are being positioned by language, power, identity, disciplinary norms, and access to classroom communication.
 
-### Source Category 6: Teaching Placement Transcripts
+### Source 3: Teaching Placement Observations / Transcripts
 
 Repository/path:
 
@@ -275,13 +250,28 @@ Repository/path:
 
 What they contribute:
 
-- bridges the adult case to children and K--12 classrooms;
-- shows how students need visual, embodied, repeated, relational, multimodal communication supports;
-- helps explain why inaccessible communication is more dangerous for children who cannot advocate like adults.
+- bridge the adult case to children and K--12 classrooms;
+- show how students need visual, embodied, repeated, relational, multimodal communication supports;
+- help explain why inaccessible communication is more dangerous for children who cannot advocate like adults.
 
 How to describe it in the paper:
 
-> Teaching-placement transcripts provide the K--12 bridge. They show that children often demonstrate understanding through action, tools, collaboration, movement, design, peer explanation, and repeated guided practice. That makes communication access a preventive responsibility, not a repair step after harm.
+> Teaching-placement observations provide the K--12 bridge. They show that children often demonstrate understanding through action, tools, collaboration, movement, design, peer explanation, and repeated guided practice. That makes communication access a preventive responsibility, not a repair step after harm.
+
+### Source 4: Present-Day Initiative for Later Connection
+
+This source belongs mainly in the **Connect Issue to the Present** section, but it can be named briefly here as part of the broader research direction.
+
+Primary initiative:
+
+- Universal Design for Learning / CAST UDL Guidelines 3.0
+
+What it contributes:
+
+- offers a current design framework for making learning more accessible;
+- supports the move from documented harm to practical redesign.
+
+Do not overdevelop UDL in Research Findings. Save that for the present-day connection section.
 
 ## What This Section Should Not Do
 
@@ -290,6 +280,9 @@ The Research Findings section should not:
 - sound like an internal planning checklist;
 - use awkward rubric language as section titles;
 - include a redundant conclusive subsection;
+- cite missing evidence or explain missing files;
+- treat Slack-search absence as a source;
+- scatter BIO/STEM emails, transcripts, advisor records, and course documents as unrelated sources;
 - perform the full critical analysis too early;
 - become a list of grievances;
 - make unsupported claims about intent;
@@ -307,10 +300,11 @@ The Research Findings section should:
 2. define the topic in natural language;
 3. explain why the issue matters;
 4. connect the issue to STEM and local teaching contexts;
-5. explain the relevant source categories and what each contributes;
-6. briefly preview the strongest documented cases without fully analyzing them;
-7. connect adult harm to child vulnerability;
-8. prepare the reader for the Critical Analysis section.
+5. present the BIO/STEM case as **one primary source of truth** with multiple evidence examples;
+6. name EDU498 readings as the theory source;
+7. name teaching-placement observations as the K--12 bridge;
+8. briefly name UDL as the present-day initiative to be developed later;
+9. prepare the reader for the Critical Analysis section.
 
 ## Draft Update Instruction
 
@@ -333,6 +327,8 @@ Instead, update the draft to use:
 
 Do **not** add a separate subsection called `What the Documentation Reveals`. That work belongs in Critical Analysis.
 
+Do **not** cite missing evidence or the absence of a Slack export in the paper. If a Slack-search boundary matters, it stays in the internal log only.
+
 ## Bridge to Critical Analysis
 
 End the section with a short transition, not a conclusion:
@@ -346,6 +342,7 @@ This revised plan aligns with the rubric because it:
 - identifies and defines the topic;
 - answers why the topic is important;
 - names relevant sources and what each source contributes;
+- treats the BIO/STEM case as one primary source of truth with multiple evidence examples;
 - attends to language, tone, terminology, accessibility, and power;
 - avoids mechanical rubric copying in the final paper;
 - avoids doing the critical analysis too early;
@@ -353,4 +350,4 @@ This revised plan aligns with the rubric because it:
 
 ## Next Step
 
-Review this corrected plan first. Once it is aligned, update `literacy-as-power-draft.tex` so the Research Findings section follows this structure.
+Create or update the **Primary BIO/STEM Communication-Access Case File**, then update `research-findings-section-draft.md` and `literacy-as-power-draft.tex` so the source structure is clean.
