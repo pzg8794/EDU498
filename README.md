@@ -1,65 +1,46 @@
-# EDU 498 - Literacy Learning as Social Practice
+# EDU498 Literacy as Power Journal
 
-This repository organizes the working materials for EDU 498, Summer A 2026. It keeps the course documents, module materials, assignment drafts, and local documentation for how submitted work was developed.
+This repository contains the working LaTeX draft for the EDU498 paper:
 
-## Current Focus
+**Literacy as Power: Communication Access, Neurodivergence, and Social Justice in STEM Education**
 
-The active work is keeping the local course archive and GitHub remote synchronized while preserving submitted posts, assignment drafts, course announcements, module packets, and transcript notes.
+## Current Files
 
-- Class 4 async draft set: [module2/class4-async1-racial-literacy-journal-piter.md](module2/class4-async1-racial-literacy-journal-piter.md)
-- Class 4 describe-moment bank: [module2/class4-describe-the-moment-options-piter.md](module2/class4-describe-the-moment-options-piter.md)
-- Class 4 Activity 2 artifact: [module2/class4-activity2-piter.md](module2/class4-activity2-piter.md)
-- Class 4 Sealey-Ruiz summary: [module2/class4-sealey-ruiz-summary-piter.md](module2/class4-sealey-ruiz-summary-piter.md)
-- Submission draft: [module2/activity3_piter_draft.md](module2/activity3_piter_draft.md)
-- Process notes: [docs/activity3-source-trail.md](docs/activity3-source-trail.md)
-- Class 4 process notes: [docs/class4-async-source-trail-2026-05-28.md](docs/class4-async-source-trail-2026-05-28.md)
-- References: [docs/references.md](docs/references.md)
-- TODO list: [TODO.md](TODO.md)
-- Latest sync log: [docs/sync-log-2026-05-26.md](docs/sync-log-2026-05-26.md)
+- `main.tex` — complete working LaTeX draft with figure placeholders
+- `references.bib` — working bibliography file
+- `figures/` — planned location for final images and screenshots
 
-## Repository Map
+## Current Draft Structure
 
-- `module1/` - Class 1 module overview, readings/media, session navigator, and class document.
-- `module2/` - Class 2 module overview, readings/media, activity materials, and Activity 3 draft.
-- `assignments/` - Major assignment descriptions and related course documents.
-- `assignments/literacy_narrative/` - Remote-tracked literacy narrative LaTeX draft history.
-- `posts/` - Submitted discussion posts and 3-2-1 reading responses.
-- `announcement/` - Course announcements and reminders downloaded from the course platform.
-- `info/` - Organized copies of course-level information PDFs.
-- `transcripts/` - Course lecture transcripts used for study notes and future drafting.
-- `docs/` - Repo-level documentation for synthesis process, source trail, references, and course-facing notes.
+The draft currently includes these major sections:
 
-The zipped files are preserved as downloaded course packets. Root-level zip files preserve the original download set, while module-local copies preserve the same packets near their extracted working folders.
+1. Opening: The Bridge
+2. Research Findings: Communication Access as a Social Justice Issue
+3. Critical Analysis: Literacy as Communication Power
+4. Connecting the Issue to the Present: Universal Design for Learning, Teaching Practice, and Student Vulnerability
+5. Recommendations: Designing Communication Access Before Harm Happens
+6. Critical Reflection: From Pain to Protection
 
-## Activity 3 Synthesis
+## Planned Figures
 
-The revised Activity 3 response is built around the idea of literacy as **critical participation**. It connects the Class 2 readings on multiliteracies, culturally and historically responsive literacy, and social practice to prior teaching-placement evidence from K-5 computer science and technology-rich lessons.
+The LaTeX draft currently uses figure placeholders so the document can compile and be reviewed before final screenshots are inserted.
 
-The core throughline is:
+Planned figures:
 
-> Engagement is not the same thing as access. Students may be excited by digital tools and still need visible routines, multiple modes of expression, and explicit pathways into participation.
+1. **Communication Access Map** — conceptual figure showing the relationship among classroom communication, disciplinary literacy, accommodations, institutional navigation, and student access.
+2. **CAST UDL Guidelines 3.0 Screenshot** — screenshot or graphic organizer showing Engagement, Representation, Action & Expression, and learner agency.
 
-That throughline came from prior work across local course and placement repositories, especially:
+## Review Priorities
 
-- `../TeachingPlacement` - Pine Brook IGNITE placement notes and presentations.
-- `../ED452B` - inclusion, assistive technology, access, and Minecraft Education unit-planning work.
-- `../EDF436` - student-teaching seminar reflections about troubleshooting, access, and lesson design.
-- `../EDF447` - snapshot-of-practice materials on Tinkercad, engagement, and productive independence.
-- `../ED400A` - teaching philosophy notes around culturally sustaining CS, neurodiversity-affirming routines, and technology as justice-oriented infrastructure.
+The next revision pass should focus on:
 
-No student names or identifying classroom details are included in the EDU 498 draft or documentation.
+- tightening citations to course readings;
+- adding final screenshots or image files;
+- revising transitions between sections;
+- checking tone for publication-level clarity;
+- converting any remaining course-specific language into reader-facing language;
+- confirming final source names and bibliography entries.
 
-## Working Routine
+## Notes
 
-1. Extract the activity prompt from the class document.
-2. Identify the required response structure and Culturally and Historically Responsive foundations/approaches.
-3. Pull only high-level, privacy-safe themes from prior placement and education-course repositories.
-4. Draft a response that sounds like Piter's actual teaching work, not a generic literacy post.
-5. Document the source trail, references, and remaining TODOs.
-6. Commit and push updates to GitHub.
-
-## Sync Notes
-
-On 2026-05-26, the local checkout was fast-forwarded to `origin/main`, restoring remote-only work such as the `posts/` tracker and literacy narrative LaTeX draft. Local-only course files were then staged for a new sync commit so the remote has the current local archive too.
-
-The GitHub remote is private because this repository contains course documents, transcripts, submission receipts, and assignment drafts.
+This draft is intentionally complete enough for full review, but it is not final. It is ready for a careful read-through and revision pass before submission formatting.
