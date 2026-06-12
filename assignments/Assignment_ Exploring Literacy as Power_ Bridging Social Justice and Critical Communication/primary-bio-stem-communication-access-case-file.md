@@ -2,15 +2,15 @@
 
 ## Purpose
 
-This file is the single curated source of truth for the BIO/STEM course evidence used in the Literacy as Power paper.
+This file serves as the curated case file for the BIO/STEM course evidence used in the Literacy as Power paper.
 
-The goal is not to scatter the BIO/STEM evidence across disconnected source categories. The goal is to treat the BIO/STEM course as **one communication-access case** with multiple documented examples.
+The BIO/STEM course is treated as one communication-access case with multiple documented examples. This allows the paper to examine how several communication events, taken together, reveal a broader access problem within one advanced STEM learning environment.
 
-This case file may draw from course emails, selected transcript excerpts, advisor-support records, course documentation, team communication records where available, technical/scientific communication examples, and accommodation-related communication.
+The case file may draw from course communication, selected classroom and team records, advisor-supported institutional navigation, course documentation, technical/scientific communication examples, and accommodation-related communication.
 
 ## Case Framing
 
-The BIO/STEM case documents how communication access barriers appeared across one advanced STEM learning environment. The case matters because it shows that even an adult graduate student with technical expertise, documentation habits, advisor support, and self-advocacy skills can still be harmed when course communication is vague, verbal-only, inconsistent, or designed around one assumed learner.
+The BIO/STEM case documents how access barriers can emerge through classroom communication even in an advanced academic setting. The case matters because it shows that an adult graduate student with technical expertise, documentation practices, advisor support, and self-advocacy skills can still be harmed when a course relies on unclear, unstable, single-mode, or default-learner communication.
 
 This case should be used carefully:
 
@@ -21,13 +21,13 @@ This case should be used carefully:
 
 ## Main Communication-Access Examples
 
-### 1. Verbal-Only / Handwritten Peer-Evaluation Requirement
+### 1. Procedural Expectations Communicated Through a Single Mode
 
-A peer-evaluation requirement became an access issue when the handwritten expectation was communicated as something stated clearly in class but not found in the syllabus, written assignment instructions, or transcribed notes.
+A peer-evaluation requirement became an access issue when an expected submission format was treated as clear based on classroom communication but was not available in the stable written locations a student would reasonably use to verify course requirements.
 
 Evidence value:
 
-- shows how verbal-only requirements can become inaccessible;
+- shows how single-mode procedural expectations can become inaccessible;
 - shows how a student's documentation strategy can still fail when requirements are not written in a stable location;
 - supports the argument that graded expectations must be written, findable, and accessible.
 
@@ -38,9 +38,9 @@ Use in paper:
 - accommodation/access design;
 - hidden or unstable requirements.
 
-### 2. Ambiguous `10 out of 12` / `First Ten Submissions` Grading Language
+### 2. Grading Language Requiring Interpretation Beyond the Written Policy
 
-The course report policy created confusion around whether `10 out of 12` meant any ten reports, the first ten submitted, or a feedback/grading structure similar to other courses.
+The course report policy created confusion because the written phrasing did not fully communicate how submissions would be prioritized for grading and feedback.
 
 Evidence value:
 
@@ -55,9 +55,9 @@ Use in paper:
 - executive-function burden;
 - ambiguity as gatekeeping.
 
-### 3. Health-Related Absence and Team Responsibility
+### 3. Health-Related Communication and Responsibility Transfer
 
-During health-related absences, communication placed responsibility on the student to keep the team moving while the student was actively dealing with flare-ups, medication effects, and disability-related barriers.
+During health-related absences, communication increased the student's responsibility for maintaining team progress while the student was actively managing flare-ups, medication effects, and disability-related barriers.
 
 Evidence value:
 
@@ -72,13 +72,13 @@ Use in paper:
 - disclosure burden;
 - relational impact of inaccessible course structures.
 
-### 4. Flex Plan / Accommodation Communication as Limit or Warning
+### 4. Accommodation Communication Framed Through Compliance Limits
 
-Accommodation communication appeared as a checkpoint around missed-class limits rather than as a broader design support for unpredictable chronic illness.
+Accommodation communication appeared through missed-class limits and procedural boundaries rather than as part of a broader inclusive design for unpredictable chronic illness.
 
 Evidence value:
 
-- shows how accommodation language can feel like a limit rather than support;
+- shows how accommodation language can be experienced as a compliance checkpoint rather than support;
 - shows that formal accommodations do not automatically create accessible classroom communication;
 - supports the claim that accommodations should be treated as the floor, not the full design.
 
@@ -89,7 +89,7 @@ Use in paper:
 - chronic illness variability;
 - difference between compliance and access.
 
-### 5. Team Communication and Project-Expectation Issues
+### 5. Collaborative Project Communication Without Sufficient Norms
 
 Team communication and project expectations created additional literacy demands through digital tools, task coordination, peer evaluation, project roles, and instructor expectations.
 
@@ -106,7 +106,7 @@ Use in paper:
 - peer relationship impact;
 - collaborative STEM access.
 
-### 6. Scientific / Technical Communication and Format Expectations
+### 6. Disciplinary and Technical Communication Treated as Self-Evident
 
 The course required scientific and technical literacy around bioinformatics concepts, file formats, code, reports, reference materials, and documentation expectations.
 
@@ -123,9 +123,9 @@ Use in paper:
 - code/documentation literacy;
 - STEM gatekeeping.
 
-### 7. Advisor Support and Institutional Navigation
+### 7. Institutional Navigation as a Required Literacy
 
-Advisor-support records show how the student had to move from classroom confusion into institutional pathways such as DSO, Ombuds, and possible escalation.
+Advisor-supported communication shows how the student had to move from classroom confusion into institutional pathways such as disability services, Ombuds support, and possible escalation.
 
 Evidence value:
 
@@ -146,14 +146,11 @@ Use one of these phrases:
 
 - `the BIO/STEM communication-access case`
 - `the curated BIO/STEM case file`
-- `the primary BIO/STEM case source`
 - `the adult BIO/STEM evidence case`
-
-Avoid presenting every internal file as its own source in the Research Findings section.
 
 ## Suggested Paper Description
 
-The primary documentation for this paper is a curated BIO/STEM communication-access case file built from course emails, selected transcript excerpts, advisor-support records, and related course documentation. I treat this as one case source because the goal is not to scatter the evidence across disconnected files, but to examine how multiple communication events formed a pattern of access barriers in one learning environment.
+The BIO/STEM communication-access case file brings together course communication, selected classroom and team records, advisor-supported institutional navigation, and technical/scientific communication examples. It is used to examine how access barriers can form across course requirements, grading procedures, accommodation communication, team coordination, and disciplinary expectations within one learning environment.
 
 ## Boundary
 
